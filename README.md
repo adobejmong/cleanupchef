@@ -1,6 +1,6 @@
 The script detect terminated nodes and offers the possibility to delete them from the Chef server
 
-Before you Start:
+BEFORE YOU START
 
 1- Chef Configuration File
    Get your chef-repo-specific configuration details for Knife (e.g., knife.rb)
@@ -18,12 +18,13 @@ Before you Start:
     Choose a namespace and metrics names
     
 
-Copy Files to the S3 you created in Step (2)
+COPY FILES TO S3 BUCKET (from Step (3))
+
 - Chef configuration File (Step (1))
 - The validation client's private key
 - Credentials file in Step (3)
     
-Edit Configuration File
+EDIT CONFIGURATION FILE
 
 Before you run the script:
 Create 'initial_config.txt' from the template below file under /localfiles and 
@@ -52,7 +53,7 @@ metric2 = from step (4)
 metric3 = from step (4)
 
 
-Run the script
+RUN THE SCRIPT
 
 # ruby cleanupchef.rb
 
@@ -63,3 +64,9 @@ OUTPUT
 2- Cloud Watch values (cw_metrics.txt) under output 
 3- Terminated instances (nodes_to_delete---mm-dd-yyyy-hh.txt)
 4- Script to run to delete nodes from the chef server #TODO
+
+RUN CLOUDWATCH SCRIPT
+#TODO
+
+RUN DELETE SCRIPT
+#TODO
