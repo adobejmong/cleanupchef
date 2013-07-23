@@ -1,0 +1,1041 @@
+07-23-2013-20-07-56: :starting
+07-23-2013-20-07-57: configuration files
+07-23-2013-20-07-57: number of accounts: 6
+07-23-2013-20-07-57: Checking account: 1
+07-23-2013-20-07-57: For region: us-east-1
+07-23-2013-20-07-03: Running ec2 instances IDs
+07-23-2013-20-07-03: Running ec2 instances IDs: 315
+07-23-2013-20-07-03: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-20-07-03: For region: us-west-1
+07-23-2013-20-07-04: Running ec2 instances IDs
+07-23-2013-20-07-04: Running ec2 instances IDs: 315
+07-23-2013-20-07-04: Running EC2 Instances: 
+07-23-2013-20-07-04: For region: us-west-2
+07-23-2013-20-07-04: Running ec2 instances IDs
+07-23-2013-20-07-04: Running ec2 instances IDs: 315
+07-23-2013-20-07-04: Running EC2 Instances: 
+07-23-2013-20-07-04: For region: eu-west-1
+07-23-2013-20-07-05: Running ec2 instances IDs
+07-23-2013-20-07-05: Running ec2 instances IDs: 315
+07-23-2013-20-07-05: Running EC2 Instances: 
+07-23-2013-20-07-05: For region: ap-northeast-1
+07-23-2013-20-07-05: Running ec2 instances IDs
+07-23-2013-20-07-05: Running ec2 instances IDs: 315
+07-23-2013-20-07-05: Running EC2 Instances: 
+07-23-2013-20-07-05: For region: ap-southeast-1
+07-23-2013-20-07-07: Running ec2 instances IDs
+07-23-2013-20-07-07: Running ec2 instances IDs: 315
+07-23-2013-20-07-07: Running EC2 Instances: 
+07-23-2013-20-07-07: For region: ap-southeast-2
+07-23-2013-20-07-08: Running ec2 instances IDs
+07-23-2013-20-07-08: Running ec2 instances IDs: 315
+07-23-2013-20-07-08: Running EC2 Instances: 
+07-23-2013-20-07-08: For region: sa-east-1
+07-23-2013-20-07-09: Running ec2 instances IDs
+07-23-2013-20-07-09: Running ec2 instances IDs: 315
+07-23-2013-20-07-09: Running EC2 Instances: 
+07-23-2013-20-07-09: Checking account: 2
+07-23-2013-20-07-09: For region: us-east-1
+07-23-2013-20-07-09: Running ec2 instances IDs
+07-23-2013-20-07-09: Running ec2 instances IDs: 315
+07-23-2013-20-07-09: Running EC2 Instances: 
+07-23-2013-20-07-09: For region: us-west-1
+07-23-2013-20-07-09: Running ec2 instances IDs
+07-23-2013-20-07-09: Running ec2 instances IDs: 315
+07-23-2013-20-07-09: Running EC2 Instances: 
+07-23-2013-20-07-09: For region: us-west-2
+07-23-2013-20-07-11: Running ec2 instances IDs
+07-23-2013-20-07-11: Running ec2 instances IDs: 315
+07-23-2013-20-07-11: Running EC2 Instances: 
+07-23-2013-20-07-11: For region: eu-west-1
+07-23-2013-20-07-15: Running ec2 instances IDs
+07-23-2013-20-07-15: Running ec2 instances IDs: 445
+07-23-2013-20-07-15: Running EC2 Instances: i-226f206bi-ab6583e3i-3bef1673i-3def1675i-abef16e3i-adef16e5i-67ee172fi-79ee1731i-759d663di-0c09ac47i-ec432ea7i-e2432ea9i-b8432ef3i-be432ef5i-70422f3bi-76422f3di-82422fc9i-c1a6938ai-27a1946ci-25a1946ei-3ba19470i-39a19472i-0ba09540i-09a09542i-fb7864b0i-a56d71eei-cf657984i-fb100cb0i-85100ccei-d054949ai-f0a063bai-9a1fc1d7i-6233ed2fi-7c33ed31i-7e33ed33i-7833ed35i-7a33ed37i-54420819i-5042081di-6c420821i-7e420833i-78420835i-24420869i-2642086bi-2042086di-28430965i-2a430967i-4e733903i-9cf9d8d1i-2a456767i-f80b03b5i-8c7b71c1i-d49d8899i-fe6a7bb3i-1007165di-5e322313i-58322315i-5a322317i-54322319i-5032231di-24322369i-ce322383i-e03223adi-fe3223b3i-44decf09i-40decf0di-2ec1d063i-74b3a239i-4077670di-68776725i-6077672di-6277672fi-0e776743i-08776745i-0a776747i-0677674bi-0077674di-0277674fi-1c776751i-1e776753i-966a7adbi-b46a7af9i-b66a7afbi-766b7b3bi-f02838bdi-ce8d9f83i-66564b2bi-a4dcc0e9i-c4a5b989i-14041a59i-d2041a9fi-bc041af1i-f66b72bbi-3c7c6771i-0a8b9047i-fd3edab1i-ef3fdba3i-933fdbdfi-a53fdbe9i-4b38dc07i-fb6783b7i-876783cbi-bd6783f1i-539b7c1fi-8dee09c1i-07d8394bi-11d8395di-bfdb3af3i-c3da3b8fi-b1da3bfdi-7ddd3c31i-15dd3c59i-7d0bea31i-4b0ced07i-bf51b8f1i-1150b95fi-cf50b981i-d98e6697i-d78e6699i-d18e669fi-0f8f6741i-0d8f6743i-058f674bi-39806877i-f98068b7i-f38068bdi-918068dfi-0d46ae43i-0b46ae45i-835fb7cd
+07-23-2013-20-07-15: For region: ap-northeast-1
+07-23-2013-20-07-18: Running ec2 instances IDs
+07-23-2013-20-07-18: Running ec2 instances IDs: 533
+07-23-2013-20-07-18: Running EC2 Instances: i-6b82586bi-65069065i-43d14b43i-45d14b45i-47d14b47i-49d14b49i-b9d14bb9i-bbd14bbbi-58dd175bi-2206bb21i-2006bb23i-4c06bb4fi-5206bb51i-7e06bb7di-7c06bb7fi-0601bc05i-369ffb35i-349ffb37i-3a9ffb39i-389ffb3bi-3e9ffb3di-bc9ffbbfi-c29ffbc1i-41bac342i-2fb2cb2ci-a9b4cdaai-c3b6cfc0i-c9b6cfcai-ed4517eei-c56e3cc6i-49cb1f4bi-4a75c248i-4875c24ai-4e75c24ci-4c75c24ei-5275c250i-50a2e652i-14ffa816i-1affa818i-28ffa82ai-2effa82ci-36ffa834i-3affa838i-64ffa866i-6affa868i-b6ffa8b4i-c0ffa8c2i-7e01577ci-80015782i-9a015798i-a00157a2i-760b5d74i-800b5d82i-860b5d84i-8a0b5d88i-a00b5da2i-a60b5da4i-a40b5da6i-ae0b5daci-ac0b5daei-b20b5db0i-b00b5db2i-b60b5db4i-b02771b2i-f68ed8f4i-6ce7b66ei-40a9fa42i-96a9fa94i-02dd8e00i-aaa7faa8i-7aa7fb78i-8c937e88i-06d23f02i-dc3ed3d8i-706c8174i-9ac8279ei-80c72884i-8ac7288ei-f0c728f4i-40c62944i-44d13e40i-68d03f6ci-402fc044i-12fb1516i-3a77993ei-46779942i-4e739d4ai-4a739d4e
+07-23-2013-20-07-18: For region: ap-southeast-1
+07-23-2013-20-07-19: Running ec2 instances IDs
+07-23-2013-20-07-19: Running ec2 instances IDs: 533
+07-23-2013-20-07-19: Running EC2 Instances: 
+07-23-2013-20-07-19: For region: ap-southeast-2
+07-23-2013-20-07-20: Running ec2 instances IDs
+07-23-2013-20-07-20: Running ec2 instances IDs: 533
+07-23-2013-20-07-20: Running EC2 Instances: 
+07-23-2013-20-07-20: For region: sa-east-1
+07-23-2013-20-07-21: Running ec2 instances IDs
+07-23-2013-20-07-21: Running ec2 instances IDs: 533
+07-23-2013-20-07-21: Running EC2 Instances: 
+07-23-2013-20-07-21: Checking account: 3
+07-23-2013-20-07-21: For region: us-east-1
+07-23-2013-20-07-25: Running ec2 instances IDs
+07-23-2013-20-07-25: Running ec2 instances IDs: 719
+07-23-2013-20-07-25: Running EC2 Instances: i-8ced4de6i-22859448i-523bad39i-e8873384i-1fbdd87di-981512f1i-d01314b9i-fa68ad9fi-c4fa06a5i-33944b5ci-930afafci-de6135bdi-d19b5cbci-71995e1ci-b48e1ed7i-338b6f51i-358b6f57i-5f8b6f3di-5c794730i-79064d1bi-b72c7ad5i-b52c7ad7i-62202101i-0aa6df64i-7c63251fi-21373f41i-27373f47i-3fef355fi-6f79ff02i-6d79ff00i-6b068006i-7779ff1ai-7179ff1ci-7379ff1ei-4c67c222i-92f0d8f3i-c6fdd5a7i-62befc08i-33ee185bi-e56ca087i-e96ca08bi-8d599de2i-d708eebfi-7bbd051bi-cdbd05adi-e00d9d81i-d4e072b5i-d6e072b7i-efe1bb8di-69e6bc0bi-4e402e20i-87bacae7i-8b6408e4i-41274a21i-7acde213i-b2d84edei-1f2fe07fi-5875963di-4e774520i-cecf8da0i-cacf8da4i-c8cf8da6i-aecf8dc0i-accf8dc2i-b4cf8ddai-b6cf8dd8i-b0cf8ddei-3b8e265bi-8b5eb4e3i-4788c128i-5c8cd235i-de21bfbfi-b7b068d5i-a4b2b4c7i-cb3c29a0i-5d048032i-5b048034i-1b655876i-57615c3ai-eda6aa8di-c3ad8aa3i-d8007ab2i-cb4deaa9i-b2c89dd8i-b6c89ddci-b4c89ddei-a2c89dc8i-a4c89dcei-a8c89dc2i-a6c89dcci-2ac2aa46i-864c9feei-0273a06ai-d913f1bbi-eac58684i-9c0175ffi-029af069i-6b93d804i-82e83ae7i-a1b37acci-3720315ai-0f2c2c64i-0e71376di-52942033i-992ee7f9i-9e7baaf2i-d2eceeb2i-debe17b6i-d0be17b8i-d2be17bai-c0be17a8i-c2be17aai-eb36fa88i-08b97e63i-12b97e79i-10b97e7bi-16b97e7di-d08302bei-83fc2fe0i-722c801ai-101b6873i-161b6875i-121a6971i-ac8cfec2i-8ef90fe5i-f22ffe99i-5032ab3ei-d02becbai-9a6acff6i-86bf22edi-84bf22efi-12dc8d7ai-aac44dcbi-48d95029i-90c44df1i-76d95017i-80df15e5i-18bf6970i-d8ca0cb2i-992f27f4i-98c5eff9i-d6b719bai-42134b28i-77f60917i-e8c2de82i-5835573bi-1a12d270i-69d5e404i-8a09e7e0i-0f343067i-6334300bi-1b343073i-1f343077i-d2feacb3i-75d7a117i-2690cb45i-245c7748i-265c774ai-185c7774i-14397078i-bd56b7ddi-505f3b3ci-ee01d384i-3b6c9e5ci-37cc6a51i-5db3b83bi-9f5b51f9i-1623616ci-31bf474ci-c7b64ebai-2dc68251i-69cb8f15i-b3e2a6cfi-2df3b751i-b92364c5i-f92e2185i-e8854996i-36ca0448i-34ca044ai-32ca044ci-30ca044ei-2eca0450i-c2cb05bci-cd8448adi-ab9792c6i-220b1041
+07-23-2013-20-07-25: For region: us-west-1
+07-23-2013-20-07-25: Running ec2 instances IDs
+07-23-2013-20-07-25: Running ec2 instances IDs: 719
+07-23-2013-20-07-25: Running EC2 Instances: 
+07-23-2013-20-07-25: For region: us-west-2
+07-23-2013-20-07-26: Running ec2 instances IDs
+07-23-2013-20-07-26: Running ec2 instances IDs: 719
+07-23-2013-20-07-26: Running EC2 Instances: 
+07-23-2013-20-07-26: For region: eu-west-1
+07-23-2013-20-07-26: Running ec2 instances IDs
+07-23-2013-20-07-26: Running ec2 instances IDs: 719
+07-23-2013-20-07-26: Running EC2 Instances: 
+07-23-2013-20-07-26: For region: ap-northeast-1
+07-23-2013-20-07-27: Running ec2 instances IDs
+07-23-2013-20-07-27: Running ec2 instances IDs: 719
+07-23-2013-20-07-27: Running EC2 Instances: 
+07-23-2013-20-07-27: For region: ap-southeast-1
+07-23-2013-20-07-28: Running ec2 instances IDs
+07-23-2013-20-07-28: Running ec2 instances IDs: 719
+07-23-2013-20-07-28: Running EC2 Instances: 
+07-23-2013-20-07-28: For region: ap-southeast-2
+07-23-2013-20-07-29: Running ec2 instances IDs
+07-23-2013-20-07-29: Running ec2 instances IDs: 719
+07-23-2013-20-07-29: Running EC2 Instances: 
+07-23-2013-20-07-29: For region: sa-east-1
+07-23-2013-20-07-30: Running ec2 instances IDs
+07-23-2013-20-07-30: Running ec2 instances IDs: 719
+07-23-2013-20-07-30: Running EC2 Instances: 
+07-23-2013-20-07-30: Checking account: 4
+07-23-2013-20-07-30: For region: us-east-1
+07-23-2013-20-07-30: Running ec2 instances IDs
+07-23-2013-20-07-30: Running ec2 instances IDs: 719
+07-23-2013-20-07-30: Running EC2 Instances: 
+07-23-2013-20-07-30: For region: us-west-1
+07-23-2013-20-07-31: Running ec2 instances IDs
+07-23-2013-20-07-31: Running ec2 instances IDs: 719
+07-23-2013-20-07-31: Running EC2 Instances: 
+07-23-2013-20-07-31: For region: us-west-2
+07-23-2013-20-07-31: Running ec2 instances IDs
+07-23-2013-20-07-31: Running ec2 instances IDs: 719
+07-23-2013-20-07-31: Running EC2 Instances: 
+07-23-2013-20-07-31: For region: eu-west-1
+07-23-2013-20-07-35: Running ec2 instances IDs
+07-23-2013-20-07-35: Running ec2 instances IDs: 829
+07-23-2013-20-07-35: Running EC2 Instances: i-d63c409fi-48100f01i-5b679313i-bf01f7f7i-1a905e51i-6ed91725i-7800ce33i-feb927b5i-eab52ba1i-e6b52badi-aab52be1i-9eae30d5i-8b5e00c0i-895e00c2i-8f5e00c4i-8d5e00c6i-835e00c8i-dd5f0196i-d35f0198i-451b3d0ei-1c728c56i-c0a11e8ai-da4f4790i-6a51ca27i-6451ca29i-6651ca2bi-c2d0b58fi-dcd0b591i-ded0b593i-d8d0b595i-f0b7dabdi-cc661681i-a46616e9i-a66616ebi-ba5121f7i-4c522201i-6e522223i-d040309di-f64030bbi-f04030bdi-964838dbi-904838ddi-924838dfi-b24838ffi-6a493927i-68493925i-da4f3f97i-d84f3f95i-d44f3f99i-52ed931fi-58792815i-6279282fi-1e792853i-a26839efi-826b3acfi-ae6b3ae3i-ce8fde83i-e08fdeadi-e28fdeafi-dcb2e391i-7ab9e837i-2ab9e867i-2a085a67i-886c41c5i-fef7cfb3i-a02621edi-bc2621f1i-b22621ffi-5c252211i-0225224fi-18252255i-14252259i-c025228di-e42522a9i-fe2522b3i-fa2522b7i-f42522b9i-f62522bbi-3c242371i-3e242373i-38242375i-3a242377i-9c2423d1i-70cccb3di-c245438fi-d645439bi-f04543bdi-884543c5i-8a4543c7i-844543c9i-864543cbi-804543cdi-904543ddi-4e424403i-48424405i-4042440di-6042442di-d8424495i-704e483di-6a575127i-78575135i-7a575137i-1e575153i-d05f599di-408e8c0di-fc4950b1i-08021b45i-18021b55i-fbca2db7i-bfc92ef3
+07-23-2013-20-07-35: For region: ap-northeast-1
+07-23-2013-20-07-41: Running ec2 instances IDs
+07-23-2013-20-07-41: Running ec2 instances IDs: 988
+07-23-2013-20-07-41: Running EC2 Instances: i-3318c433i-1f14c81fi-5dae755di-a724aaa7i-eb8215ebi-3b44d73bi-f149daf1i-07039f07i-b1a03fb1i-8b52cd8bi-e3b22ce3i-e425eee7i-c84a81cbi-1a408b19i-425d9641i-3e5c973di-28579c2bi-b0cd7ab3i-d2cb7cd1i-eacb7ce9i-f2cb7cf1i-32ca7d31i-3423b337i-3a23b339i-3823b33bi-3e23b33di-3c23b33fi-7423b377i-7a23b379i-1975211ai-f925e8fbi-f27a18f0i-2a723e28i-5836785ai-5a367858i-5e36785ci-5c36785ei-62367860i-60367862i-66367864i-7e36787ci-7c36787ei-82367880i-8a367888i-8e36788ci-aa3678a8i-b23678b0i-b03678b2i-b63678b4i-c43678c6i-fe3678fci-02377900i-9c6e209ei-c26e20c0i-c66e20c4i-d26e20d0i-60460f62i-8e58118ci-225d1420i-625e1760i-12531a10i-10551c12i-10692012i-b66b22b4i-b66c25b4i-7e61287ci-ac632aaei-fa652cf8i-dc672edei-50b6ff52i-0cc9800ei-12c98010i-6ed1986ci-e6e6aee4i-b2fbb3b0i-8cfdb58ei-5af0b858i-d2f2bad0i-d6f4bcd4i-caf6bec8i-f80a41fai-fe0843fci-a00e45a2i-ba0c47b8i-2e014a2ci-d2004bd0i-ba064db8i-b4044fb6i-b01952b2i-9c1f549ei-ba1d56b8i-fe1358fci-94105b96i-0e155e0ci-0a396e08i-32673730i-42693940i-c26b3bc0i-e66d3de4i-3490c036i-7492c276i-8e95c58ci-8697c784i-869bcb84i-449ece46i-3880d03ai-3882d23ai-7285d570i-8487d786i-aa89d9a8i-788ddd7ai-06b0e004i-5eb4e45ci-e8b6e6eai-74baea76i-a8bcecaai-02bfef00i-9aa1f198i-7ea5f57ci-9ea7f79ci-eca9f9eei-7cacfc7ei-f0aefef2i-3ed1813ci-32d38330i-6cd5856ei-60d78762i-dada8ad8i-32dd8d30i-94df8f96i-acc191aei-2ac49428i-aec696aci-2ec9992ci-04cb9b06i-dece9edci-a8f0a0aai-46f3a344i-36f5a534i-cef7a7cci-d6faaad4i-6efdad6ci-e4acf0e6i-3ea8f43ci-1aa9f518i-68abf76ai-0ca6fa0ei-32a0fc30i-22df8320i-0eda860ci-c2da86c0i-a2d589a0i-94d78b96i-b4d28eb6i-2acd9128i-96cf9394i-32ca9630i-dac498d8i-bc29c7b8
+07-23-2013-20-07-41: For region: ap-southeast-1
+07-23-2013-20-07-42: Running ec2 instances IDs
+07-23-2013-20-07-42: Running ec2 instances IDs: 988
+07-23-2013-20-07-42: Running EC2 Instances: 
+07-23-2013-20-07-42: For region: ap-southeast-2
+07-23-2013-20-07-43: Running ec2 instances IDs
+07-23-2013-20-07-43: Running ec2 instances IDs: 988
+07-23-2013-20-07-43: Running EC2 Instances: 
+07-23-2013-20-07-43: For region: sa-east-1
+07-23-2013-20-07-44: Running ec2 instances IDs
+07-23-2013-20-07-44: Running ec2 instances IDs: 988
+07-23-2013-20-07-44: Running EC2 Instances: 
+07-23-2013-20-07-44: Checking account: 5
+07-23-2013-20-07-44: For region: us-east-1
+07-23-2013-20-07-52: Running ec2 instances IDs
+07-23-2013-20-07-52: Running ec2 instances IDs: 1341
+07-23-2013-20-07-52: Running EC2 Instances: i-dd560eb0i-9974fbf6i-c5a89caai-0cfb5e60i-d6f85dbai-c2f85daei-a23b70c1i-bc3b70dfi-7838731bi-6e38730di-50387333i-66387305i-a0332dc1i-36322c57i-12322c73i-60322c01i-68fe9506i-ed221a8di-86ebbee7i-90a112f1i-c6a712adi-aa6eabcfi-d86eabbdi-c26eaba7i-cc6eaba9i-f46eab91i-f26eab97i-5be8423bi-5c384a36i-c04618a3i-ab2c5ac9i-3b451059i-71878c13i-81878ce3i-24ed4847i-07a65768i-60a0e601i-eea4af82i-135b637ci-30ea8653i-50344d38i-35b97558i-e4ca1885i-07bf9167i-5445263ei-f159ab99i-587a3539i-1a25ce74i-38da965di-f1848c9ci-1c486575i-1248657bi-70cd981ei-50b4b93ai-ef9ac582i-a19ac5cci-7cb9f516i-7a20441fi-9a45a9f1i-6619dd03i-67fcc407i-9e6765f4i-ca8cefa0i-dc8cefb6i-d2f567b3i-585c4f34i-ea9c2e81i-e8823083i-cc8230a7i-ec9c2e87i-0779cf6fi-b0e8f0d1i-f8f6ee99i-12529271i-4a764021i-1f72067fi-19720679i-1b72067bi-11720671i-46b3912ei-6aad8f02i-a8dc60c9i-d4fb52b8i-70fb521ci-9a1e29fbi-1a1e297bi-1c1e297di-141e2975i-ce2abca0i-98d2b0f6i-00cd8268i-57be803fi-4432dd27i-db23e5b9i-df23e5bdi-e923e58bi-d723e5b5i-e723e585i-e523e587i-c923e5abi-cf23e5adi-7141d511i-2741d547i-f0230899i-62c20f0ci-74c20f1ai-7ac20f14i-22707648i-5b0e4539i-782dbb12i-d00f18bei-208dda43i-43f2fe23i-fd774f9fi-67774f05i-9f43eef0i-0add6366i-4e761420i-b33cdfd3i-2369924bi-a9539acbi-c96c7dabi-d16c7db3i-d96c7dbbi-f30bcd91i-9908cefbi-8508cee7i-b681d8dai-b3cc76d1i-87cc76e5i-d9cc76bbi-0f628167i-3972cb59i-6972cb09i-1b61d671i-92c8d1f1i-37fec255i-3dfec25fi-15fec277i-f84f4d96i-b7c2aad7i-4fc2aa2fi-49035b24i-a0a5c0cai-3230ad59i-ceeb58a2i-90d8fff3i-ae09b1cfi-329ae559i-0a97e861i-3e9ae555i-ced0abadi-361d3e5di-341d3e5fi-1489d377i-4709112ci-3b091150i-5709113ci-5a51b034i-89f3f3e1i-ff618b92i-5666f73ai-6066f70ci-86811ae3i-bc811ad9i-c8811aadi-d6811ab3i-d0811ab5i-9dc34ff2i-967328fci-3adf1c5fi-4081f82ai-4e81f824i-4481f82ei-4281f828i-d7fa8cbai-c61280aai-095aa861i-958e8bfei-61279d03i-d68fd3bei-9fd7f0ffi-1cfe1977i-f48c2991i-fe8c299bi-fa8c299fi-6f1e7100i-adee7fc0i-c18454aei-3d73455di-cb7345abi-61cb550ei-6e7f090fi-139c887ei-4019eb2bi-1217987ci-ef2f9382i-e837358bi-8c3634efi-18f08b76i-219da443i-5be4b83bi-122bd27ci-7a6d6219i-4ea6c324i-24d76a4ai-85a074e8i-38b79056i-54a81a31i-eca91b89i-02a81a67i-c0d8d1a9i-8b5c9ee6i-e2a66c88i-96c9f4f7i-83fd55eci-70517a1bi-b5906ad5i-c5e86ba5i-5ef88736i-a60faccei-e20c1b8ci-10869879i-0f11ee62i-f00e5a91i-1b808b79i-e3d97f8ci-77d97d15i-c0bf91aai-a72228c5i-8cf428e9i-e4016e8ai-0506c867i-18a12179i-9ab4c8f3i-7ac2de10i-84368ee5i-e683a687i-e09fcf89i-dc9fcfb5i-ce9fcfa7i-d29fcfbbi-3a5d4059i-8c3e33efi-408ff229i-a80cebc6i-6a8d3a01i-87f968e8i-99f968f6i-7dd4d410i-41d4d42ci-d0b534bai-e0b7368ai-1334ce7ci-dd8830bdi-4e8e5020i-d0b7cfb5i-41f70721i-3a648950i-300b505ci-a00c1ccci-12ad4b77i-561d3e3di-5aad4b3fi-8c7301e0i-77158a15i-dcfb8bbfi-3486845di-e687858fi-e2b40389i-b2bd8fd8i-053b8f65i-93398df3i-013b8f61i-073b8f67i-f0505d9ei-deb4c8b6i-403d1228i-799c3e13i-a4dae5c0i-24220b43i-d21428b5i-078e6a61i-df1143b9i-ab1446cdi-4cca2b35i-acb757d5i-4006a439i-7260740ai-efe51a94i-0f3a9a74i-0d3a9a76i-033a9a78i-8319b9f8i-8119b9fai-8719b9fci-8519b9fei-5db2ca26i-69532812i-9cd216e6i-92d216e8i-90d216eai-96d216eci-94d216eei-88d216f2i-8ed216f4i-8cd216f6i-20599d5ai-26599d5ci-24599d5ei-1a599d60i-18599d62i-1e599d64i-c825a8b2i-1cf57e66i-66deb31ci-9519e8e8i-edb37d90i-dc2e04a1i-4b49af37i-336b594fi-c73dabb8i-838a1bfci-fb48d984i-0f26b770i-6329b81ci-8f7ae0f0i-ff7f6880i-5a57be24i-14ae456ai-6285791ci-fe31cd80i-5c10ec22i-0202fe7ci-267d8158i-807d81fei-18bc1766i-ffafcc8ei-0d2b627ci-a94900d8i-edb2fb9ci-9ba6eeeai-5da7ef2ci-9b074ceai-03064d72i-b33020c2i-0a2fea7ai-2875e442i-07fbda65i-a69bb1c5i-93f18cf1i-51de8733i-14149f7a
+07-23-2013-20-07-52: For region: us-west-1
+07-23-2013-20-07-53: Running ec2 instances IDs
+07-23-2013-20-07-53: Running ec2 instances IDs: 1341
+07-23-2013-20-07-53: Running EC2 Instances: 
+07-23-2013-20-07-53: For region: us-west-2
+07-23-2013-20-07-53: Running ec2 instances IDs
+07-23-2013-20-07-53: Running ec2 instances IDs: 1341
+07-23-2013-20-07-53: Running EC2 Instances: 
+07-23-2013-20-07-53: For region: eu-west-1
+07-23-2013-20-07-55: Running ec2 instances IDs
+07-23-2013-20-07-55: Running ec2 instances IDs: 1400
+07-23-2013-20-07-55: Running EC2 Instances: i-8a5a5cc3i-94ee0ad9i-bccd29f1i-22cb2f6fi-0e20c843i-a208e0efi-b816fef5i-b88368f5i-9208fddfi-1a0aff57i-96e410dbi-56bc7b1bi-82b97ecfi-78ba7835i-0adf1d47i-08ef2d45i-6870b225i-44300709i-4630070bi-4030070di-0c300741i-0a300747i-2030076di-2230076fi-883007c5i-ae3007e3i-a83007e5i-a43007e9i-4e3f0803i-503f081di-643f0829i-603f082di-0c3f0841i-2a3f0867i-66ebdc2bi-eeb389a3i-24a1a469i-a8a1a4e5i-5aa0a517i-68a0a525i-66a0a52bi-7ea0a533i-0ea0a543i-16a0a55bi-24a0a569i-82a0a5cfi-baa0a5f7i-b4a0a5f9i-66a3a62bi-76a3a63bi-72a3a63fi-ec5e58a1i-c0868f8di-d66d669bi-b60314fbi-b66c7ffbi-d529c69bi-e555baabi-d5b75c9b
+07-23-2013-20-07-55: For region: ap-northeast-1
+07-23-2013-20-07-56: Running ec2 instances IDs
+07-23-2013-20-07-56: Running ec2 instances IDs: 1405
+07-23-2013-20-07-56: Running EC2 Instances: i-b795f6b7i-d795f6d7i-7394f773i-4d87f14di-ac2bb2af
+07-23-2013-20-07-56: For region: ap-southeast-1
+07-23-2013-20-07-57: Running ec2 instances IDs
+07-23-2013-20-07-57: Running ec2 instances IDs: 1405
+07-23-2013-20-07-57: Running EC2 Instances: 
+07-23-2013-20-07-57: For region: ap-southeast-2
+07-23-2013-20-07-59: Running ec2 instances IDs
+07-23-2013-20-07-59: Running ec2 instances IDs: 1405
+07-23-2013-20-07-59: Running EC2 Instances: 
+07-23-2013-20-07-59: For region: sa-east-1
+07-23-2013-20-07-59: Running ec2 instances IDs
+07-23-2013-20-07-59: Running ec2 instances IDs: 1405
+07-23-2013-20-07-59: Running EC2 Instances: 
+07-23-2013-20-07-59: Checking account: 6
+07-23-2013-20-07-59: For region: us-east-1
+07-23-2013-20-07-01: Running ec2 instances IDs
+07-23-2013-20-07-01: Running ec2 instances IDs: 1450
+07-23-2013-20-07-01: Running EC2 Instances: i-6eaed607i-816173e9i-7f33b11di-953f90f5i-5846e830i-5a46e832i-43e8872ei-b8bf06d9i-babf06dbi-e4bf0685i-e6bf0687i-d0591fb3i-026cc169i-937bc7f3i-5c78b839i-d82b4eb2i-b16ccfdci-27df8d4ai-ee0f5980i-826f15ebi-9c6f15f5i-c57e69a8i-970e10fci-6b0d1300i-d46d78b5i-d66d78b7i-1171727ci-cbf971a6i-8aadb4e4i-235bf741i-4c24e022i-f3c2f893i-68d9b009i-fa868893i-e6bfcd8ai-57a13d3ai-02c82b68i-3b2c2450i-2cf3a24bi-f6028f88i-f4028f8ai-cce745bci-24239554i-4eca503di-32536341
+07-23-2013-20-07-01: For region: us-west-1
+07-23-2013-20-07-01: Running ec2 instances IDs
+07-23-2013-20-07-01: Running ec2 instances IDs: 1450
+07-23-2013-20-07-01: Running EC2 Instances: 
+07-23-2013-20-07-01: For region: us-west-2
+07-23-2013-20-07-02: Running ec2 instances IDs
+07-23-2013-20-07-02: Running ec2 instances IDs: 1454
+07-23-2013-20-07-02: Running EC2 Instances: i-87d8d9b4i-b1e20a84i-fbaf40cfi-450ce371
+07-23-2013-20-07-02: For region: eu-west-1
+07-23-2013-20-07-03: Running ec2 instances IDs
+07-23-2013-20-07-03: Running ec2 instances IDs: 1457
+07-23-2013-20-07-03: Running EC2 Instances: i-ee2651a7i-87aa40cfi-8729dfcf
+07-23-2013-20-07-03: For region: ap-northeast-1
+07-23-2013-20-07-03: Running ec2 instances IDs
+07-23-2013-20-07-03: Running ec2 instances IDs: 1457
+07-23-2013-20-07-03: Running EC2 Instances: 
+07-23-2013-20-07-03: For region: ap-southeast-1
+07-23-2013-20-07-05: Running ec2 instances IDs
+07-23-2013-20-07-05: Running ec2 instances IDs: 1457
+07-23-2013-20-07-05: Running EC2 Instances: 
+07-23-2013-20-07-05: For region: ap-southeast-2
+07-23-2013-20-07-06: Running ec2 instances IDs
+07-23-2013-20-07-06: Running ec2 instances IDs: 1457
+07-23-2013-20-07-06: Running EC2 Instances: 
+07-23-2013-20-07-06: For region: sa-east-1
+07-23-2013-20-07-07: Running ec2 instances IDs
+07-23-2013-20-07-07: Running ec2 instances IDs: 1457
+07-23-2013-20-07-07: Running EC2 Instances: 
+07-23-2013-20-07-07: writing to file node_to_delete
+07-23-2013-20-07-15: number of TERMINATED: 1000
+07-23-2013-20-07-30: :starting
+07-23-2013-20-07-00: :starting
+07-23-2013-20-07-01: configuration files
+07-23-2013-20-07-01: number of accounts: 6
+07-23-2013-20-07-01: Checking account: 1
+07-23-2013-20-07-01: For region: us-east-1
+07-23-2013-20-07-07: Running ec2 instances IDs
+07-23-2013-20-07-07: Running ec2 instances IDs: 315
+07-23-2013-20-07-07: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-20-07-07: For region: us-west-1
+07-23-2013-20-07-08: Running ec2 instances IDs
+07-23-2013-20-07-08: Running ec2 instances IDs: 315
+07-23-2013-20-07-08: Running EC2 Instances: 
+07-23-2013-20-07-08: For region: us-west-2
+07-23-2013-20-07-08: Running ec2 instances IDs
+07-23-2013-20-07-08: Running ec2 instances IDs: 315
+07-23-2013-20-07-08: Running EC2 Instances: 
+07-23-2013-20-07-08: For region: eu-west-1
+07-23-2013-20-07-09: Running ec2 instances IDs
+07-23-2013-20-07-09: Running ec2 instances IDs: 315
+07-23-2013-20-07-09: Running EC2 Instances: 
+07-23-2013-20-07-09: For region: ap-northeast-1
+07-23-2013-21-07-24: :starting
+07-23-2013-21-07-25: configuration files
+07-23-2013-21-07-25: number of accounts: 6
+07-23-2013-21-07-25: Checking account: 1
+07-23-2013-21-07-25: For region: us-east-1
+07-23-2013-21-07-34: :starting
+07-23-2013-21-07-34: configuration files
+07-23-2013-21-07-34: number of accounts: 6
+07-23-2013-21-07-34: Checking account: 1
+07-23-2013-21-07-34: For region: us-east-1
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 315
+07-23-2013-21-07-41: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-21-07-41: For region: us-west-1
+07-23-2013-21-07-42: Running ec2 instances IDs
+07-23-2013-21-07-42: Running ec2 instances IDs: 315
+07-23-2013-21-07-42: Running EC2 Instances: 
+07-23-2013-21-07-42: For region: us-west-2
+07-23-2013-21-07-42: Running ec2 instances IDs
+07-23-2013-21-07-42: Running ec2 instances IDs: 315
+07-23-2013-21-07-42: Running EC2 Instances: 
+07-23-2013-21-07-42: For region: eu-west-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 315
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: ap-northeast-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 315
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: ap-southeast-1
+07-23-2013-21-07-45: Running ec2 instances IDs
+07-23-2013-21-07-45: Running ec2 instances IDs: 315
+07-23-2013-21-07-45: Running EC2 Instances: 
+07-23-2013-21-07-45: For region: ap-southeast-2
+07-23-2013-21-07-46: Running ec2 instances IDs
+07-23-2013-21-07-46: Running ec2 instances IDs: 315
+07-23-2013-21-07-46: Running EC2 Instances: 
+07-23-2013-21-07-46: For region: sa-east-1
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 315
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: Checking account: 2
+07-23-2013-21-07-47: For region: us-east-1
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 315
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: For region: us-west-1
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 315
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: For region: us-west-2
+07-23-2013-21-07-48: Running ec2 instances IDs
+07-23-2013-21-07-48: Running ec2 instances IDs: 315
+07-23-2013-21-07-48: Running EC2 Instances: 
+07-23-2013-21-07-48: For region: eu-west-1
+07-23-2013-21-07-52: Running ec2 instances IDs
+07-23-2013-21-07-52: Running ec2 instances IDs: 445
+07-23-2013-21-07-52: Running EC2 Instances: i-226f206bi-ab6583e3i-3bef1673i-3def1675i-abef16e3i-adef16e5i-67ee172fi-79ee1731i-759d663di-0c09ac47i-ec432ea7i-e2432ea9i-b8432ef3i-be432ef5i-70422f3bi-76422f3di-82422fc9i-c1a6938ai-27a1946ci-25a1946ei-3ba19470i-39a19472i-0ba09540i-09a09542i-fb7864b0i-a56d71eei-cf657984i-fb100cb0i-85100ccei-d054949ai-f0a063bai-9a1fc1d7i-6233ed2fi-7c33ed31i-7e33ed33i-7833ed35i-7a33ed37i-54420819i-5042081di-6c420821i-7e420833i-78420835i-24420869i-2642086bi-2042086di-28430965i-2a430967i-4e733903i-9cf9d8d1i-2a456767i-f80b03b5i-8c7b71c1i-d49d8899i-fe6a7bb3i-1007165di-5e322313i-58322315i-5a322317i-54322319i-5032231di-24322369i-ce322383i-e03223adi-fe3223b3i-44decf09i-40decf0di-2ec1d063i-74b3a239i-4077670di-68776725i-6077672di-6277672fi-0e776743i-08776745i-0a776747i-0677674bi-0077674di-0277674fi-1c776751i-1e776753i-966a7adbi-b46a7af9i-b66a7afbi-766b7b3bi-f02838bdi-ce8d9f83i-66564b2bi-a4dcc0e9i-c4a5b989i-14041a59i-d2041a9fi-bc041af1i-f66b72bbi-3c7c6771i-0a8b9047i-fd3edab1i-ef3fdba3i-933fdbdfi-a53fdbe9i-4b38dc07i-fb6783b7i-876783cbi-bd6783f1i-539b7c1fi-8dee09c1i-07d8394bi-11d8395di-bfdb3af3i-c3da3b8fi-b1da3bfdi-7ddd3c31i-15dd3c59i-7d0bea31i-4b0ced07i-bf51b8f1i-1150b95fi-cf50b981i-d98e6697i-d78e6699i-d18e669fi-0f8f6741i-0d8f6743i-058f674bi-39806877i-f98068b7i-f38068bdi-918068dfi-0d46ae43i-0b46ae45i-835fb7cd
+07-23-2013-21-07-52: For region: ap-northeast-1
+07-23-2013-21-07-55: Running ec2 instances IDs
+07-23-2013-21-07-55: Running ec2 instances IDs: 533
+07-23-2013-21-07-55: Running EC2 Instances: i-6b82586bi-65069065i-43d14b43i-45d14b45i-47d14b47i-49d14b49i-b9d14bb9i-bbd14bbbi-58dd175bi-2206bb21i-2006bb23i-4c06bb4fi-5206bb51i-7e06bb7di-7c06bb7fi-0601bc05i-369ffb35i-349ffb37i-3a9ffb39i-389ffb3bi-3e9ffb3di-bc9ffbbfi-c29ffbc1i-41bac342i-2fb2cb2ci-a9b4cdaai-c3b6cfc0i-c9b6cfcai-ed4517eei-c56e3cc6i-49cb1f4bi-4a75c248i-4875c24ai-4e75c24ci-4c75c24ei-5275c250i-50a2e652i-14ffa816i-1affa818i-28ffa82ai-2effa82ci-36ffa834i-3affa838i-64ffa866i-6affa868i-b6ffa8b4i-c0ffa8c2i-7e01577ci-80015782i-9a015798i-a00157a2i-760b5d74i-800b5d82i-860b5d84i-8a0b5d88i-a00b5da2i-a60b5da4i-a40b5da6i-ae0b5daci-ac0b5daei-b20b5db0i-b00b5db2i-b60b5db4i-b02771b2i-f68ed8f4i-6ce7b66ei-40a9fa42i-96a9fa94i-02dd8e00i-aaa7faa8i-7aa7fb78i-8c937e88i-06d23f02i-dc3ed3d8i-706c8174i-9ac8279ei-80c72884i-8ac7288ei-f0c728f4i-40c62944i-44d13e40i-68d03f6ci-402fc044i-12fb1516i-3a77993ei-46779942i-4e739d4ai-4a739d4e
+07-23-2013-21-07-55: For region: ap-southeast-1
+07-23-2013-21-07-56: Running ec2 instances IDs
+07-23-2013-21-07-56: Running ec2 instances IDs: 533
+07-23-2013-21-07-56: Running EC2 Instances: 
+07-23-2013-21-07-56: For region: ap-southeast-2
+07-23-2013-21-07-58: Running ec2 instances IDs
+07-23-2013-21-07-58: Running ec2 instances IDs: 533
+07-23-2013-21-07-58: Running EC2 Instances: 
+07-23-2013-21-07-58: For region: sa-east-1
+07-23-2013-21-07-58: Running ec2 instances IDs
+07-23-2013-21-07-58: Running ec2 instances IDs: 533
+07-23-2013-21-07-58: Running EC2 Instances: 
+07-23-2013-21-07-58: Checking account: 3
+07-23-2013-21-07-58: For region: us-east-1
+07-23-2013-21-07-02: Running ec2 instances IDs
+07-23-2013-21-07-02: Running ec2 instances IDs: 719
+07-23-2013-21-07-02: Running EC2 Instances: i-8ced4de6i-22859448i-523bad39i-e8873384i-1fbdd87di-981512f1i-d01314b9i-fa68ad9fi-c4fa06a5i-33944b5ci-930afafci-de6135bdi-d19b5cbci-71995e1ci-b48e1ed7i-338b6f51i-358b6f57i-5f8b6f3di-5c794730i-79064d1bi-b72c7ad5i-b52c7ad7i-62202101i-0aa6df64i-7c63251fi-21373f41i-27373f47i-3fef355fi-6f79ff02i-6d79ff00i-6b068006i-7779ff1ai-7179ff1ci-7379ff1ei-4c67c222i-92f0d8f3i-c6fdd5a7i-62befc08i-33ee185bi-e56ca087i-e96ca08bi-8d599de2i-d708eebfi-7bbd051bi-cdbd05adi-e00d9d81i-d4e072b5i-d6e072b7i-efe1bb8di-69e6bc0bi-4e402e20i-87bacae7i-8b6408e4i-41274a21i-7acde213i-b2d84edei-1f2fe07fi-5875963di-4e774520i-cecf8da0i-cacf8da4i-c8cf8da6i-aecf8dc0i-accf8dc2i-b4cf8ddai-b6cf8dd8i-b0cf8ddei-3b8e265bi-8b5eb4e3i-4788c128i-5c8cd235i-de21bfbfi-b7b068d5i-a4b2b4c7i-cb3c29a0i-5d048032i-5b048034i-1b655876i-57615c3ai-eda6aa8di-c3ad8aa3i-d8007ab2i-cb4deaa9i-b2c89dd8i-b6c89ddci-b4c89ddei-a2c89dc8i-a4c89dcei-a8c89dc2i-a6c89dcci-2ac2aa46i-864c9feei-0273a06ai-d913f1bbi-eac58684i-9c0175ffi-029af069i-6b93d804i-82e83ae7i-a1b37acci-3720315ai-0f2c2c64i-0e71376di-52942033i-992ee7f9i-9e7baaf2i-d2eceeb2i-debe17b6i-d0be17b8i-d2be17bai-c0be17a8i-c2be17aai-eb36fa88i-08b97e63i-12b97e79i-10b97e7bi-16b97e7di-d08302bei-83fc2fe0i-722c801ai-101b6873i-161b6875i-121a6971i-ac8cfec2i-8ef90fe5i-f22ffe99i-5032ab3ei-d02becbai-9a6acff6i-86bf22edi-84bf22efi-12dc8d7ai-aac44dcbi-48d95029i-90c44df1i-76d95017i-80df15e5i-18bf6970i-d8ca0cb2i-992f27f4i-98c5eff9i-d6b719bai-42134b28i-77f60917i-e8c2de82i-5835573bi-1a12d270i-69d5e404i-8a09e7e0i-0f343067i-6334300bi-1b343073i-1f343077i-d2feacb3i-75d7a117i-2690cb45i-245c7748i-265c774ai-185c7774i-14397078i-bd56b7ddi-505f3b3ci-ee01d384i-3b6c9e5ci-37cc6a51i-5db3b83bi-9f5b51f9i-1623616ci-31bf474ci-c7b64ebai-2dc68251i-69cb8f15i-b3e2a6cfi-2df3b751i-b92364c5i-f92e2185i-e8854996i-36ca0448i-34ca044ai-32ca044ci-30ca044ei-2eca0450i-c2cb05bci-cd8448adi-ab9792c6i-220b1041
+07-23-2013-21-07-02: For region: us-west-1
+07-23-2013-21-07-02: Running ec2 instances IDs
+07-23-2013-21-07-02: Running ec2 instances IDs: 719
+07-23-2013-21-07-02: Running EC2 Instances: 
+07-23-2013-21-07-02: For region: us-west-2
+07-23-2013-21-07-03: Running ec2 instances IDs
+07-23-2013-21-07-03: Running ec2 instances IDs: 719
+07-23-2013-21-07-03: Running EC2 Instances: 
+07-23-2013-21-07-03: For region: eu-west-1
+07-23-2013-21-07-03: Running ec2 instances IDs
+07-23-2013-21-07-03: Running ec2 instances IDs: 719
+07-23-2013-21-07-03: Running EC2 Instances: 
+07-23-2013-21-07-03: For region: ap-northeast-1
+07-23-2013-21-07-04: Running ec2 instances IDs
+07-23-2013-21-07-04: Running ec2 instances IDs: 719
+07-23-2013-21-07-04: Running EC2 Instances: 
+07-23-2013-21-07-04: For region: ap-southeast-1
+07-23-2013-21-07-05: Running ec2 instances IDs
+07-23-2013-21-07-05: Running ec2 instances IDs: 719
+07-23-2013-21-07-05: Running EC2 Instances: 
+07-23-2013-21-07-05: For region: ap-southeast-2
+07-23-2013-21-07-07: Running ec2 instances IDs
+07-23-2013-21-07-07: Running ec2 instances IDs: 719
+07-23-2013-21-07-07: Running EC2 Instances: 
+07-23-2013-21-07-07: For region: sa-east-1
+07-23-2013-21-07-07: Running ec2 instances IDs
+07-23-2013-21-07-07: Running ec2 instances IDs: 719
+07-23-2013-21-07-07: Running EC2 Instances: 
+07-23-2013-21-07-07: Checking account: 4
+07-23-2013-21-07-07: For region: us-east-1
+07-23-2013-21-07-08: Running ec2 instances IDs
+07-23-2013-21-07-08: Running ec2 instances IDs: 719
+07-23-2013-21-07-08: Running EC2 Instances: 
+07-23-2013-21-07-08: For region: us-west-1
+07-23-2013-21-07-08: Running ec2 instances IDs
+07-23-2013-21-07-08: Running ec2 instances IDs: 719
+07-23-2013-21-07-08: Running EC2 Instances: 
+07-23-2013-21-07-08: For region: us-west-2
+07-23-2013-21-07-09: Running ec2 instances IDs
+07-23-2013-21-07-09: Running ec2 instances IDs: 719
+07-23-2013-21-07-09: Running EC2 Instances: 
+07-23-2013-21-07-09: For region: eu-west-1
+07-23-2013-21-07-12: Running ec2 instances IDs
+07-23-2013-21-07-12: Running ec2 instances IDs: 829
+07-23-2013-21-07-12: Running EC2 Instances: i-d63c409fi-48100f01i-5b679313i-bf01f7f7i-1a905e51i-6ed91725i-7800ce33i-feb927b5i-eab52ba1i-e6b52badi-aab52be1i-9eae30d5i-8b5e00c0i-895e00c2i-8f5e00c4i-8d5e00c6i-835e00c8i-dd5f0196i-d35f0198i-451b3d0ei-1c728c56i-c0a11e8ai-da4f4790i-6a51ca27i-6451ca29i-6651ca2bi-c2d0b58fi-dcd0b591i-ded0b593i-d8d0b595i-f0b7dabdi-cc661681i-a46616e9i-a66616ebi-ba5121f7i-4c522201i-6e522223i-d040309di-f64030bbi-f04030bdi-964838dbi-904838ddi-924838dfi-b24838ffi-6a493927i-68493925i-da4f3f97i-d84f3f95i-d44f3f99i-52ed931fi-58792815i-6279282fi-1e792853i-a26839efi-826b3acfi-ae6b3ae3i-ce8fde83i-e08fdeadi-e28fdeafi-dcb2e391i-7ab9e837i-2ab9e867i-2a085a67i-886c41c5i-fef7cfb3i-a02621edi-bc2621f1i-b22621ffi-5c252211i-0225224fi-18252255i-14252259i-c025228di-e42522a9i-fe2522b3i-fa2522b7i-f42522b9i-f62522bbi-3c242371i-3e242373i-38242375i-3a242377i-9c2423d1i-70cccb3di-c245438fi-d645439bi-f04543bdi-884543c5i-8a4543c7i-844543c9i-864543cbi-804543cdi-904543ddi-4e424403i-48424405i-4042440di-6042442di-d8424495i-704e483di-6a575127i-78575135i-7a575137i-1e575153i-d05f599di-408e8c0di-fc4950b1i-08021b45i-18021b55i-fbca2db7i-bfc92ef3
+07-23-2013-21-07-12: For region: ap-northeast-1
+07-23-2013-21-07-18: Running ec2 instances IDs
+07-23-2013-21-07-18: Running ec2 instances IDs: 988
+07-23-2013-21-07-18: Running EC2 Instances: i-3318c433i-1f14c81fi-5dae755di-a724aaa7i-eb8215ebi-3b44d73bi-f149daf1i-07039f07i-b1a03fb1i-8b52cd8bi-e3b22ce3i-e425eee7i-c84a81cbi-1a408b19i-425d9641i-3e5c973di-28579c2bi-b0cd7ab3i-d2cb7cd1i-eacb7ce9i-f2cb7cf1i-32ca7d31i-3423b337i-3a23b339i-3823b33bi-3e23b33di-3c23b33fi-7423b377i-7a23b379i-1975211ai-f925e8fbi-f27a18f0i-2a723e28i-5836785ai-5a367858i-5e36785ci-5c36785ei-62367860i-60367862i-66367864i-7e36787ci-7c36787ei-82367880i-8a367888i-8e36788ci-aa3678a8i-b23678b0i-b03678b2i-b63678b4i-c43678c6i-fe3678fci-02377900i-9c6e209ei-c26e20c0i-c66e20c4i-d26e20d0i-60460f62i-8e58118ci-225d1420i-625e1760i-12531a10i-10551c12i-10692012i-b66b22b4i-b66c25b4i-7e61287ci-ac632aaei-fa652cf8i-dc672edei-50b6ff52i-0cc9800ei-12c98010i-6ed1986ci-e6e6aee4i-b2fbb3b0i-8cfdb58ei-5af0b858i-d2f2bad0i-d6f4bcd4i-caf6bec8i-f80a41fai-fe0843fci-a00e45a2i-ba0c47b8i-2e014a2ci-d2004bd0i-ba064db8i-b4044fb6i-b01952b2i-9c1f549ei-ba1d56b8i-fe1358fci-94105b96i-0e155e0ci-0a396e08i-32673730i-42693940i-c26b3bc0i-e66d3de4i-3490c036i-7492c276i-8e95c58ci-8697c784i-869bcb84i-449ece46i-3880d03ai-3882d23ai-7285d570i-8487d786i-aa89d9a8i-788ddd7ai-06b0e004i-5eb4e45ci-e8b6e6eai-74baea76i-a8bcecaai-02bfef00i-9aa1f198i-7ea5f57ci-9ea7f79ci-eca9f9eei-7cacfc7ei-f0aefef2i-3ed1813ci-32d38330i-6cd5856ei-60d78762i-dada8ad8i-32dd8d30i-94df8f96i-acc191aei-2ac49428i-aec696aci-2ec9992ci-04cb9b06i-dece9edci-a8f0a0aai-46f3a344i-36f5a534i-cef7a7cci-d6faaad4i-6efdad6ci-e4acf0e6i-3ea8f43ci-1aa9f518i-68abf76ai-0ca6fa0ei-32a0fc30i-22df8320i-0eda860ci-c2da86c0i-a2d589a0i-94d78b96i-b4d28eb6i-2acd9128i-96cf9394i-32ca9630i-dac498d8i-bc29c7b8
+07-23-2013-21-07-18: For region: ap-southeast-1
+07-23-2013-21-07-19: Running ec2 instances IDs
+07-23-2013-21-07-19: Running ec2 instances IDs: 988
+07-23-2013-21-07-19: Running EC2 Instances: 
+07-23-2013-21-07-19: For region: ap-southeast-2
+07-23-2013-21-07-21: Running ec2 instances IDs
+07-23-2013-21-07-21: Running ec2 instances IDs: 988
+07-23-2013-21-07-21: Running EC2 Instances: 
+07-23-2013-21-07-21: For region: sa-east-1
+07-23-2013-21-07-21: Running ec2 instances IDs
+07-23-2013-21-07-21: Running ec2 instances IDs: 988
+07-23-2013-21-07-21: Running EC2 Instances: 
+07-23-2013-21-07-21: Checking account: 5
+07-23-2013-21-07-21: For region: us-east-1
+07-23-2013-21-07-30: Running ec2 instances IDs
+07-23-2013-21-07-30: Running ec2 instances IDs: 1340
+07-23-2013-21-07-30: Running EC2 Instances: i-dd560eb0i-9974fbf6i-c5a89caai-0cfb5e60i-d6f85dbai-c2f85daei-a23b70c1i-bc3b70dfi-7838731bi-6e38730di-50387333i-66387305i-a0332dc1i-36322c57i-12322c73i-60322c01i-68fe9506i-ed221a8di-86ebbee7i-90a112f1i-c6a712adi-aa6eabcfi-d86eabbdi-c26eaba7i-cc6eaba9i-f46eab91i-f26eab97i-5be8423bi-5c384a36i-c04618a3i-ab2c5ac9i-3b451059i-71878c13i-81878ce3i-24ed4847i-07a65768i-60a0e601i-eea4af82i-135b637ci-30ea8653i-50344d38i-35b97558i-e4ca1885i-07bf9167i-5445263ei-f159ab99i-587a3539i-1a25ce74i-38da965di-f1848c9ci-1c486575i-1248657bi-70cd981ei-50b4b93ai-ef9ac582i-a19ac5cci-7cb9f516i-7a20441fi-9a45a9f1i-6619dd03i-67fcc407i-ca8cefa0i-dc8cefb6i-d2f567b3i-585c4f34i-ea9c2e81i-e8823083i-cc8230a7i-ec9c2e87i-0779cf6fi-b0e8f0d1i-f8f6ee99i-12529271i-4a764021i-1f72067fi-19720679i-1b72067bi-11720671i-46b3912ei-6aad8f02i-a8dc60c9i-d4fb52b8i-70fb521ci-9a1e29fbi-1a1e297bi-1c1e297di-141e2975i-ce2abca0i-98d2b0f6i-00cd8268i-57be803fi-4432dd27i-db23e5b9i-df23e5bdi-e923e58bi-d723e5b5i-e723e585i-e523e587i-c923e5abi-cf23e5adi-7141d511i-2741d547i-f0230899i-62c20f0ci-74c20f1ai-7ac20f14i-22707648i-5b0e4539i-782dbb12i-d00f18bei-208dda43i-43f2fe23i-fd774f9fi-67774f05i-9f43eef0i-0add6366i-4e761420i-b33cdfd3i-2369924bi-a9539acbi-c96c7dabi-d16c7db3i-d96c7dbbi-f30bcd91i-9908cefbi-8508cee7i-b681d8dai-b3cc76d1i-87cc76e5i-d9cc76bbi-0f628167i-3972cb59i-6972cb09i-1b61d671i-92c8d1f1i-37fec255i-3dfec25fi-15fec277i-f84f4d96i-b7c2aad7i-4fc2aa2fi-49035b24i-a0a5c0cai-3230ad59i-ceeb58a2i-90d8fff3i-ae09b1cfi-329ae559i-0a97e861i-3e9ae555i-ced0abadi-361d3e5di-341d3e5fi-1489d377i-4709112ci-3b091150i-5709113ci-5a51b034i-89f3f3e1i-ff618b92i-5666f73ai-6066f70ci-86811ae3i-bc811ad9i-c8811aadi-d6811ab3i-d0811ab5i-9dc34ff2i-967328fci-3adf1c5fi-4081f82ai-4e81f824i-4481f82ei-4281f828i-bcaffed5i-d7fa8cbai-c61280aai-095aa861i-958e8bfei-61279d03i-d68fd3bei-9fd7f0ffi-1cfe1977i-f48c2991i-fe8c299bi-fa8c299fi-6f1e7100i-adee7fc0i-c18454aei-3d73455di-cb7345abi-61cb550ei-6e7f090fi-139c887ei-4019eb2bi-1217987ci-ef2f9382i-e837358bi-8c3634efi-18f08b76i-219da443i-5be4b83bi-122bd27ci-7a6d6219i-4ea6c324i-24d76a4ai-85a074e8i-38b79056i-54a81a31i-eca91b89i-02a81a67i-c0d8d1a9i-8b5c9ee6i-e2a66c88i-96c9f4f7i-83fd55eci-70517a1bi-b5906ad5i-c8a6faa6i-c5e86ba5i-5ef88736i-a60faccei-e20c1b8ci-0f11ee62i-f00e5a91i-1b808b79i-e3d97f8ci-77d97d15i-c0bf91aai-a72228c5i-8cf428e9i-e4016e8ai-0506c867i-18a12179i-7ac2de10i-84368ee5i-e683a687i-e09fcf89i-dc9fcfb5i-ce9fcfa7i-d29fcfbbi-3a5d4059i-8c3e33efi-408ff229i-a80cebc6i-6a8d3a01i-87f968e8i-99f968f6i-7dd4d410i-41d4d42ci-d0b534bai-e0b7368ai-1334ce7ci-dd8830bdi-4e8e5020i-d0b7cfb5i-41f70721i-3a648950i-300b505ci-a00c1ccci-12ad4b77i-561d3e3di-5aad4b3fi-8c7301e0i-77158a15i-dcfb8bbfi-3486845di-e687858fi-e2b40389i-b2bd8fd8i-053b8f65i-93398df3i-013b8f61i-073b8f67i-f0505d9ei-deb4c8b6i-403d1228i-799c3e13i-a4dae5c0i-24220b43i-d21428b5i-078e6a61i-df1143b9i-ab1446cdi-4cca2b35i-acb757d5i-4006a439i-7260740ai-efe51a94i-0f3a9a74i-0d3a9a76i-033a9a78i-8319b9f8i-8119b9fai-8719b9fci-8519b9fei-5db2ca26i-69532812i-9cd216e6i-92d216e8i-90d216eai-96d216eci-94d216eei-88d216f2i-8ed216f4i-8cd216f6i-20599d5ai-26599d5ci-24599d5ei-1a599d60i-18599d62i-1e599d64i-c825a8b2i-1cf57e66i-66deb31ci-9519e8e8i-edb37d90i-dc2e04a1i-4b49af37i-336b594fi-c73dabb8i-838a1bfci-fb48d984i-0f26b770i-6329b81ci-8f7ae0f0i-ff7f6880i-5a57be24i-14ae456ai-6285791ci-fe31cd80i-5c10ec22i-0202fe7ci-267d8158i-807d81fei-18bc1766i-ffafcc8ei-0d2b627ci-a94900d8i-edb2fb9ci-9ba6eeeai-5da7ef2ci-9b074ceai-03064d72i-b33020c2i-0a2fea7ai-2875e442i-07fbda65i-a69bb1c5i-93f18cf1i-51de8733i-14149f7a
+07-23-2013-21-07-30: For region: us-west-1
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 1340
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: For region: us-west-2
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 1340
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: For region: eu-west-1
+07-23-2013-21-07-34: Running ec2 instances IDs
+07-23-2013-21-07-34: Running ec2 instances IDs: 1399
+07-23-2013-21-07-34: Running EC2 Instances: i-8a5a5cc3i-94ee0ad9i-bccd29f1i-22cb2f6fi-0e20c843i-a208e0efi-b816fef5i-b88368f5i-9208fddfi-1a0aff57i-96e410dbi-56bc7b1bi-82b97ecfi-78ba7835i-0adf1d47i-08ef2d45i-6870b225i-44300709i-4630070bi-4030070di-0c300741i-0a300747i-2030076di-2230076fi-883007c5i-ae3007e3i-a83007e5i-a43007e9i-4e3f0803i-503f081di-643f0829i-603f082di-0c3f0841i-2a3f0867i-66ebdc2bi-eeb389a3i-24a1a469i-a8a1a4e5i-5aa0a517i-68a0a525i-66a0a52bi-7ea0a533i-0ea0a543i-16a0a55bi-24a0a569i-82a0a5cfi-baa0a5f7i-b4a0a5f9i-66a3a62bi-76a3a63bi-72a3a63fi-ec5e58a1i-c0868f8di-d66d669bi-b60314fbi-b66c7ffbi-d529c69bi-e555baabi-d5b75c9b
+07-23-2013-21-07-34: For region: ap-northeast-1
+07-23-2013-21-07-35: Running ec2 instances IDs
+07-23-2013-21-07-35: Running ec2 instances IDs: 1404
+07-23-2013-21-07-35: Running EC2 Instances: i-b795f6b7i-d795f6d7i-7394f773i-4d87f14di-ac2bb2af
+07-23-2013-21-07-35: For region: ap-southeast-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 1404
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: For region: ap-southeast-2
+07-23-2013-21-07-37: Running ec2 instances IDs
+07-23-2013-21-07-37: Running ec2 instances IDs: 1404
+07-23-2013-21-07-37: Running EC2 Instances: 
+07-23-2013-21-07-37: For region: sa-east-1
+07-23-2013-21-07-38: Running ec2 instances IDs
+07-23-2013-21-07-38: Running ec2 instances IDs: 1404
+07-23-2013-21-07-38: Running EC2 Instances: 
+07-23-2013-21-07-38: Checking account: 6
+07-23-2013-21-07-38: For region: us-east-1
+07-23-2013-21-07-39: Running ec2 instances IDs
+07-23-2013-21-07-39: Running ec2 instances IDs: 1449
+07-23-2013-21-07-39: Running EC2 Instances: i-6eaed607i-816173e9i-7f33b11di-953f90f5i-5846e830i-5a46e832i-43e8872ei-b8bf06d9i-babf06dbi-e4bf0685i-e6bf0687i-d0591fb3i-026cc169i-937bc7f3i-5c78b839i-d82b4eb2i-b16ccfdci-27df8d4ai-ee0f5980i-826f15ebi-9c6f15f5i-c57e69a8i-970e10fci-6b0d1300i-d46d78b5i-d66d78b7i-1171727ci-cbf971a6i-8aadb4e4i-235bf741i-4c24e022i-f3c2f893i-68d9b009i-fa868893i-e6bfcd8ai-57a13d3ai-02c82b68i-3b2c2450i-2cf3a24bi-f6028f88i-f4028f8ai-cce745bci-24239554i-4eca503di-32536341
+07-23-2013-21-07-39: For region: us-west-1
+07-23-2013-21-07-39: Running ec2 instances IDs
+07-23-2013-21-07-39: Running ec2 instances IDs: 1449
+07-23-2013-21-07-39: Running EC2 Instances: 
+07-23-2013-21-07-39: For region: us-west-2
+07-23-2013-21-07-40: Running ec2 instances IDs
+07-23-2013-21-07-40: Running ec2 instances IDs: 1453
+07-23-2013-21-07-40: Running EC2 Instances: i-87d8d9b4i-b1e20a84i-fbaf40cfi-450ce371
+07-23-2013-21-07-40: For region: eu-west-1
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 1456
+07-23-2013-21-07-41: Running EC2 Instances: i-ee2651a7i-87aa40cfi-8729dfcf
+07-23-2013-21-07-41: For region: ap-northeast-1
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 1456
+07-23-2013-21-07-42: Running EC2 Instances: 
+07-23-2013-21-07-42: For region: ap-southeast-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 1456
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: ap-southeast-2
+07-23-2013-21-07-44: Running ec2 instances IDs
+07-23-2013-21-07-44: Running ec2 instances IDs: 1456
+07-23-2013-21-07-44: Running EC2 Instances: 
+07-23-2013-21-07-44: For region: sa-east-1
+07-23-2013-21-07-45: Running ec2 instances IDs
+07-23-2013-21-07-45: Running ec2 instances IDs: 1456
+07-23-2013-21-07-45: Running EC2 Instances: 
+07-23-2013-21-07-45: writing to file node_to_delete
+07-23-2013-21-07-52: number of TERMINATED: 1000
+07-23-2013-21-07-34: :starting
+07-23-2013-21-07-34: configuration files
+07-23-2013-21-07-34: number of accounts: 6
+07-23-2013-21-07-34: Checking account: 1
+07-23-2013-21-07-34: For region: us-east-1
+07-23-2013-21-07-40: Running ec2 instances IDs
+07-23-2013-21-07-40: Running ec2 instances IDs: 315
+07-23-2013-21-07-40: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-21-07-40: For region: us-west-1
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 315
+07-23-2013-21-07-41: Running EC2 Instances: 
+07-23-2013-21-07-41: For region: us-west-2
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 315
+07-23-2013-21-07-41: Running EC2 Instances: 
+07-23-2013-21-07-41: For region: eu-west-1
+07-23-2013-21-07-42: Running ec2 instances IDs
+07-23-2013-21-07-42: Running ec2 instances IDs: 315
+07-23-2013-21-07-42: Running EC2 Instances: 
+07-23-2013-21-07-42: For region: ap-northeast-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 315
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: ap-southeast-1
+07-23-2013-21-07-44: Running ec2 instances IDs
+07-23-2013-21-07-44: Running ec2 instances IDs: 315
+07-23-2013-21-07-44: Running EC2 Instances: 
+07-23-2013-21-07-44: For region: ap-southeast-2
+07-23-2013-21-07-45: Running ec2 instances IDs
+07-23-2013-21-07-45: Running ec2 instances IDs: 315
+07-23-2013-21-07-45: Running EC2 Instances: 
+07-23-2013-21-07-45: For region: sa-east-1
+07-23-2013-21-07-46: Running ec2 instances IDs
+07-23-2013-21-07-46: Running ec2 instances IDs: 315
+07-23-2013-21-07-46: Running EC2 Instances: 
+07-23-2013-21-07-46: Checking account: 2
+07-23-2013-21-07-46: For region: us-east-1
+07-23-2013-21-07-46: Running ec2 instances IDs
+07-23-2013-21-07-46: Running ec2 instances IDs: 315
+07-23-2013-21-07-46: Running EC2 Instances: 
+07-23-2013-21-07-46: For region: us-west-1
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 315
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: For region: us-west-2
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 315
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: For region: eu-west-1
+07-23-2013-21-07-51: Running ec2 instances IDs
+07-23-2013-21-07-51: Running ec2 instances IDs: 445
+07-23-2013-21-07-51: Running EC2 Instances: i-226f206bi-ab6583e3i-3bef1673i-3def1675i-abef16e3i-adef16e5i-67ee172fi-79ee1731i-759d663di-0c09ac47i-ec432ea7i-e2432ea9i-b8432ef3i-be432ef5i-70422f3bi-76422f3di-82422fc9i-c1a6938ai-27a1946ci-25a1946ei-3ba19470i-39a19472i-0ba09540i-09a09542i-fb7864b0i-a56d71eei-cf657984i-fb100cb0i-85100ccei-d054949ai-f0a063bai-9a1fc1d7i-6233ed2fi-7c33ed31i-7e33ed33i-7833ed35i-7a33ed37i-54420819i-5042081di-6c420821i-7e420833i-78420835i-24420869i-2642086bi-2042086di-28430965i-2a430967i-4e733903i-9cf9d8d1i-2a456767i-f80b03b5i-8c7b71c1i-d49d8899i-fe6a7bb3i-1007165di-5e322313i-58322315i-5a322317i-54322319i-5032231di-24322369i-ce322383i-e03223adi-fe3223b3i-44decf09i-40decf0di-2ec1d063i-74b3a239i-4077670di-68776725i-6077672di-6277672fi-0e776743i-08776745i-0a776747i-0677674bi-0077674di-0277674fi-1c776751i-1e776753i-966a7adbi-b46a7af9i-b66a7afbi-766b7b3bi-f02838bdi-ce8d9f83i-66564b2bi-a4dcc0e9i-c4a5b989i-14041a59i-d2041a9fi-bc041af1i-f66b72bbi-3c7c6771i-0a8b9047i-fd3edab1i-ef3fdba3i-933fdbdfi-a53fdbe9i-4b38dc07i-fb6783b7i-876783cbi-bd6783f1i-539b7c1fi-8dee09c1i-07d8394bi-11d8395di-bfdb3af3i-c3da3b8fi-b1da3bfdi-7ddd3c31i-15dd3c59i-7d0bea31i-4b0ced07i-bf51b8f1i-1150b95fi-cf50b981i-d98e6697i-d78e6699i-d18e669fi-0f8f6741i-0d8f6743i-058f674bi-39806877i-f98068b7i-f38068bdi-918068dfi-0d46ae43i-0b46ae45i-835fb7cd
+07-23-2013-21-07-51: For region: ap-northeast-1
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 533
+07-23-2013-21-07-54: Running EC2 Instances: i-6b82586bi-65069065i-43d14b43i-45d14b45i-47d14b47i-49d14b49i-b9d14bb9i-bbd14bbbi-58dd175bi-2206bb21i-2006bb23i-4c06bb4fi-5206bb51i-7e06bb7di-7c06bb7fi-0601bc05i-369ffb35i-349ffb37i-3a9ffb39i-389ffb3bi-3e9ffb3di-bc9ffbbfi-c29ffbc1i-41bac342i-2fb2cb2ci-a9b4cdaai-c3b6cfc0i-c9b6cfcai-ed4517eei-c56e3cc6i-49cb1f4bi-4a75c248i-4875c24ai-4e75c24ci-4c75c24ei-5275c250i-50a2e652i-14ffa816i-1affa818i-28ffa82ai-2effa82ci-36ffa834i-3affa838i-64ffa866i-6affa868i-b6ffa8b4i-c0ffa8c2i-7e01577ci-80015782i-9a015798i-a00157a2i-760b5d74i-800b5d82i-860b5d84i-8a0b5d88i-a00b5da2i-a60b5da4i-a40b5da6i-ae0b5daci-ac0b5daei-b20b5db0i-b00b5db2i-b60b5db4i-b02771b2i-f68ed8f4i-6ce7b66ei-40a9fa42i-96a9fa94i-02dd8e00i-aaa7faa8i-7aa7fb78i-8c937e88i-06d23f02i-dc3ed3d8i-706c8174i-9ac8279ei-80c72884i-8ac7288ei-f0c728f4i-40c62944i-44d13e40i-68d03f6ci-402fc044i-12fb1516i-3a77993ei-46779942i-4e739d4ai-4a739d4e
+07-23-2013-21-07-54: For region: ap-southeast-1
+07-23-2013-21-07-56: Running ec2 instances IDs
+07-23-2013-21-07-56: Running ec2 instances IDs: 533
+07-23-2013-21-07-56: Running EC2 Instances: 
+07-23-2013-21-07-56: For region: ap-southeast-2
+07-23-2013-21-07-57: Running ec2 instances IDs
+07-23-2013-21-07-57: Running ec2 instances IDs: 533
+07-23-2013-21-07-57: Running EC2 Instances: 
+07-23-2013-21-07-57: For region: sa-east-1
+07-23-2013-21-07-57: Running ec2 instances IDs
+07-23-2013-21-07-57: Running ec2 instances IDs: 533
+07-23-2013-21-07-57: Running EC2 Instances: 
+07-23-2013-21-07-57: Checking account: 3
+07-23-2013-21-07-57: For region: us-east-1
+07-23-2013-21-07-01: Running ec2 instances IDs
+07-23-2013-21-07-01: Running ec2 instances IDs: 719
+07-23-2013-21-07-01: Running EC2 Instances: i-8ced4de6i-22859448i-523bad39i-e8873384i-1fbdd87di-981512f1i-d01314b9i-fa68ad9fi-c4fa06a5i-33944b5ci-930afafci-de6135bdi-d19b5cbci-71995e1ci-b48e1ed7i-338b6f51i-358b6f57i-5f8b6f3di-5c794730i-79064d1bi-b72c7ad5i-b52c7ad7i-62202101i-0aa6df64i-7c63251fi-21373f41i-27373f47i-3fef355fi-6f79ff02i-6d79ff00i-6b068006i-7779ff1ai-7179ff1ci-7379ff1ei-4c67c222i-92f0d8f3i-c6fdd5a7i-62befc08i-33ee185bi-e56ca087i-e96ca08bi-8d599de2i-d708eebfi-7bbd051bi-cdbd05adi-e00d9d81i-d4e072b5i-d6e072b7i-efe1bb8di-69e6bc0bi-4e402e20i-87bacae7i-8b6408e4i-41274a21i-7acde213i-b2d84edei-1f2fe07fi-5875963di-4e774520i-cecf8da0i-cacf8da4i-c8cf8da6i-aecf8dc0i-accf8dc2i-b4cf8ddai-b6cf8dd8i-b0cf8ddei-3b8e265bi-8b5eb4e3i-4788c128i-5c8cd235i-de21bfbfi-b7b068d5i-a4b2b4c7i-cb3c29a0i-5d048032i-5b048034i-1b655876i-57615c3ai-eda6aa8di-c3ad8aa3i-d8007ab2i-cb4deaa9i-b2c89dd8i-b6c89ddci-b4c89ddei-a2c89dc8i-a4c89dcei-a8c89dc2i-a6c89dcci-2ac2aa46i-864c9feei-0273a06ai-d913f1bbi-eac58684i-9c0175ffi-029af069i-6b93d804i-82e83ae7i-a1b37acci-3720315ai-0f2c2c64i-0e71376di-52942033i-992ee7f9i-9e7baaf2i-d2eceeb2i-debe17b6i-d0be17b8i-d2be17bai-c0be17a8i-c2be17aai-eb36fa88i-08b97e63i-12b97e79i-10b97e7bi-16b97e7di-d08302bei-83fc2fe0i-722c801ai-101b6873i-161b6875i-121a6971i-ac8cfec2i-8ef90fe5i-f22ffe99i-5032ab3ei-d02becbai-9a6acff6i-86bf22edi-84bf22efi-12dc8d7ai-aac44dcbi-48d95029i-90c44df1i-76d95017i-80df15e5i-18bf6970i-d8ca0cb2i-992f27f4i-98c5eff9i-d6b719bai-42134b28i-77f60917i-e8c2de82i-5835573bi-1a12d270i-69d5e404i-8a09e7e0i-0f343067i-6334300bi-1b343073i-1f343077i-d2feacb3i-75d7a117i-2690cb45i-245c7748i-265c774ai-185c7774i-14397078i-bd56b7ddi-505f3b3ci-ee01d384i-3b6c9e5ci-37cc6a51i-5db3b83bi-9f5b51f9i-1623616ci-31bf474ci-c7b64ebai-2dc68251i-69cb8f15i-b3e2a6cfi-2df3b751i-b92364c5i-f92e2185i-e8854996i-36ca0448i-34ca044ai-32ca044ci-30ca044ei-2eca0450i-c2cb05bci-cd8448adi-ab9792c6i-220b1041
+07-23-2013-21-07-01: For region: us-west-1
+07-23-2013-21-07-02: Running ec2 instances IDs
+07-23-2013-21-07-02: Running ec2 instances IDs: 719
+07-23-2013-21-07-02: Running EC2 Instances: 
+07-23-2013-21-07-02: For region: us-west-2
+07-23-2013-21-07-03: Running ec2 instances IDs
+07-23-2013-21-07-03: Running ec2 instances IDs: 719
+07-23-2013-21-07-03: Running EC2 Instances: 
+07-23-2013-21-07-03: For region: eu-west-1
+07-23-2013-21-07-04: Running ec2 instances IDs
+07-23-2013-21-07-04: Running ec2 instances IDs: 719
+07-23-2013-21-07-04: Running EC2 Instances: 
+07-23-2013-21-07-04: For region: ap-northeast-1
+07-23-2013-21-07-05: Running ec2 instances IDs
+07-23-2013-21-07-05: Running ec2 instances IDs: 719
+07-23-2013-21-07-05: Running EC2 Instances: 
+07-23-2013-21-07-05: For region: ap-southeast-1
+07-23-2013-21-07-06: Running ec2 instances IDs
+07-23-2013-21-07-06: Running ec2 instances IDs: 719
+07-23-2013-21-07-06: Running EC2 Instances: 
+07-23-2013-21-07-06: For region: ap-southeast-2
+07-23-2013-21-07-07: Running ec2 instances IDs
+07-23-2013-21-07-07: Running ec2 instances IDs: 719
+07-23-2013-21-07-07: Running EC2 Instances: 
+07-23-2013-21-07-07: For region: sa-east-1
+07-23-2013-21-07-08: Running ec2 instances IDs
+07-23-2013-21-07-08: Running ec2 instances IDs: 719
+07-23-2013-21-07-08: Running EC2 Instances: 
+07-23-2013-21-07-08: Checking account: 4
+07-23-2013-21-07-08: For region: us-east-1
+07-23-2013-21-07-08: Running ec2 instances IDs
+07-23-2013-21-07-08: Running ec2 instances IDs: 719
+07-23-2013-21-07-08: Running EC2 Instances: 
+07-23-2013-21-07-08: For region: us-west-1
+07-23-2013-21-07-09: Running ec2 instances IDs
+07-23-2013-21-07-09: Running ec2 instances IDs: 719
+07-23-2013-21-07-09: Running EC2 Instances: 
+07-23-2013-21-07-09: For region: us-west-2
+07-23-2013-21-07-09: Running ec2 instances IDs
+07-23-2013-21-07-09: Running ec2 instances IDs: 719
+07-23-2013-21-07-09: Running EC2 Instances: 
+07-23-2013-21-07-09: For region: eu-west-1
+07-23-2013-21-07-13: Running ec2 instances IDs
+07-23-2013-21-07-13: Running ec2 instances IDs: 829
+07-23-2013-21-07-13: Running EC2 Instances: i-d63c409fi-48100f01i-5b679313i-bf01f7f7i-1a905e51i-6ed91725i-7800ce33i-feb927b5i-eab52ba1i-e6b52badi-aab52be1i-9eae30d5i-8b5e00c0i-895e00c2i-8f5e00c4i-8d5e00c6i-835e00c8i-dd5f0196i-d35f0198i-451b3d0ei-1c728c56i-c0a11e8ai-da4f4790i-6a51ca27i-6451ca29i-6651ca2bi-c2d0b58fi-dcd0b591i-ded0b593i-d8d0b595i-f0b7dabdi-cc661681i-a46616e9i-a66616ebi-ba5121f7i-4c522201i-6e522223i-d040309di-f64030bbi-f04030bdi-964838dbi-904838ddi-924838dfi-b24838ffi-6a493927i-68493925i-da4f3f97i-d84f3f95i-d44f3f99i-52ed931fi-58792815i-6279282fi-1e792853i-a26839efi-826b3acfi-ae6b3ae3i-ce8fde83i-e08fdeadi-e28fdeafi-dcb2e391i-7ab9e837i-2ab9e867i-2a085a67i-886c41c5i-fef7cfb3i-a02621edi-bc2621f1i-b22621ffi-5c252211i-0225224fi-18252255i-14252259i-c025228di-e42522a9i-fe2522b3i-fa2522b7i-f42522b9i-f62522bbi-3c242371i-3e242373i-38242375i-3a242377i-9c2423d1i-70cccb3di-c245438fi-d645439bi-f04543bdi-884543c5i-8a4543c7i-844543c9i-864543cbi-804543cdi-904543ddi-4e424403i-48424405i-4042440di-6042442di-d8424495i-704e483di-6a575127i-78575135i-7a575137i-1e575153i-d05f599di-408e8c0di-fc4950b1i-08021b45i-18021b55i-fbca2db7i-bfc92ef3
+07-23-2013-21-07-13: For region: ap-northeast-1
+07-23-2013-21-07-19: Running ec2 instances IDs
+07-23-2013-21-07-19: Running ec2 instances IDs: 988
+07-23-2013-21-07-19: Running EC2 Instances: i-3318c433i-1f14c81fi-5dae755di-a724aaa7i-eb8215ebi-3b44d73bi-f149daf1i-07039f07i-b1a03fb1i-8b52cd8bi-e3b22ce3i-e425eee7i-c84a81cbi-1a408b19i-425d9641i-3e5c973di-28579c2bi-b0cd7ab3i-d2cb7cd1i-eacb7ce9i-f2cb7cf1i-32ca7d31i-3423b337i-3a23b339i-3823b33bi-3e23b33di-3c23b33fi-7423b377i-7a23b379i-1975211ai-f925e8fbi-f27a18f0i-2a723e28i-5836785ai-5a367858i-5e36785ci-5c36785ei-62367860i-60367862i-66367864i-7e36787ci-7c36787ei-82367880i-8a367888i-8e36788ci-aa3678a8i-b23678b0i-b03678b2i-b63678b4i-c43678c6i-fe3678fci-02377900i-9c6e209ei-c26e20c0i-c66e20c4i-d26e20d0i-60460f62i-8e58118ci-225d1420i-625e1760i-12531a10i-10551c12i-10692012i-b66b22b4i-b66c25b4i-7e61287ci-ac632aaei-fa652cf8i-dc672edei-50b6ff52i-0cc9800ei-12c98010i-6ed1986ci-e6e6aee4i-b2fbb3b0i-8cfdb58ei-5af0b858i-d2f2bad0i-d6f4bcd4i-caf6bec8i-f80a41fai-fe0843fci-a00e45a2i-ba0c47b8i-2e014a2ci-d2004bd0i-ba064db8i-b4044fb6i-b01952b2i-9c1f549ei-ba1d56b8i-fe1358fci-94105b96i-0e155e0ci-0a396e08i-32673730i-42693940i-c26b3bc0i-e66d3de4i-3490c036i-7492c276i-8e95c58ci-8697c784i-869bcb84i-449ece46i-3880d03ai-3882d23ai-7285d570i-8487d786i-aa89d9a8i-788ddd7ai-06b0e004i-5eb4e45ci-e8b6e6eai-74baea76i-a8bcecaai-02bfef00i-9aa1f198i-7ea5f57ci-9ea7f79ci-eca9f9eei-7cacfc7ei-f0aefef2i-3ed1813ci-32d38330i-6cd5856ei-60d78762i-dada8ad8i-32dd8d30i-94df8f96i-acc191aei-2ac49428i-aec696aci-2ec9992ci-04cb9b06i-dece9edci-a8f0a0aai-46f3a344i-36f5a534i-cef7a7cci-d6faaad4i-6efdad6ci-e4acf0e6i-3ea8f43ci-1aa9f518i-68abf76ai-0ca6fa0ei-32a0fc30i-22df8320i-0eda860ci-c2da86c0i-a2d589a0i-94d78b96i-b4d28eb6i-2acd9128i-96cf9394i-32ca9630i-dac498d8i-bc29c7b8
+07-23-2013-21-07-19: For region: ap-southeast-1
+07-23-2013-21-07-20: Running ec2 instances IDs
+07-23-2013-21-07-20: Running ec2 instances IDs: 988
+07-23-2013-21-07-20: Running EC2 Instances: 
+07-23-2013-21-07-20: For region: ap-southeast-2
+07-23-2013-21-07-21: Running ec2 instances IDs
+07-23-2013-21-07-21: Running ec2 instances IDs: 988
+07-23-2013-21-07-21: Running EC2 Instances: 
+07-23-2013-21-07-21: For region: sa-east-1
+07-23-2013-21-07-22: Running ec2 instances IDs
+07-23-2013-21-07-22: Running ec2 instances IDs: 988
+07-23-2013-21-07-22: Running EC2 Instances: 
+07-23-2013-21-07-22: Checking account: 5
+07-23-2013-21-07-22: For region: us-east-1
+07-23-2013-21-07-29: Running ec2 instances IDs
+07-23-2013-21-07-29: Running ec2 instances IDs: 1342
+07-23-2013-21-07-29: Running EC2 Instances: i-dd560eb0i-9974fbf6i-c5a89caai-0cfb5e60i-d6f85dbai-c2f85daei-a23b70c1i-bc3b70dfi-7838731bi-6e38730di-50387333i-66387305i-a0332dc1i-36322c57i-12322c73i-60322c01i-68fe9506i-77e07017i-ed221a8di-8e68f5e2i-86ebbee7i-90a112f1i-c6a712adi-aa6eabcfi-d86eabbdi-c26eaba7i-cc6eaba9i-f46eab91i-f26eab97i-5be8423bi-5c384a36i-c04618a3i-ab2c5ac9i-3b451059i-71878c13i-81878ce3i-24ed4847i-07a65768i-60a0e601i-eea4af82i-135b637ci-30ea8653i-50344d38i-35b97558i-e4ca1885i-07bf9167i-5445263ei-f159ab99i-587a3539i-c65b76afi-1a25ce74i-38da965di-f1848c9ci-1c486575i-1248657bi-70cd981ei-50b4b93ai-ef9ac582i-a19ac5cci-7cb9f516i-7a20441fi-9a45a9f1i-6619dd03i-67fcc407i-ca8cefa0i-dc8cefb6i-d2f567b3i-585c4f34i-ea9c2e81i-e8823083i-cc8230a7i-ec9c2e87i-0779cf6fi-b0e8f0d1i-f8f6ee99i-12529271i-4a764021i-1f72067fi-19720679i-1b72067bi-11720671i-46b3912ei-6aad8f02i-a8dc60c9i-d4fb52b8i-70fb521ci-9a1e29fbi-1a1e297bi-1c1e297di-141e2975i-ce2abca0i-98d2b0f6i-00cd8268i-57be803fi-4432dd27i-db23e5b9i-df23e5bdi-e923e58bi-d723e5b5i-e723e585i-e523e587i-c923e5abi-cf23e5adi-7141d511i-2741d547i-f0230899i-62c20f0ci-74c20f1ai-7ac20f14i-22707648i-5b0e4539i-782dbb12i-d00f18bei-208dda43i-43f2fe23i-fd774f9fi-67774f05i-9f43eef0i-0add6366i-4e761420i-b33cdfd3i-2369924bi-a9539acbi-c96c7dabi-d16c7db3i-d96c7dbbi-f30bcd91i-9908cefbi-8508cee7i-b681d8dai-b3cc76d1i-87cc76e5i-d9cc76bbi-0f628167i-3972cb59i-6972cb09i-1b61d671i-92c8d1f1i-37fec255i-3dfec25fi-15fec277i-f84f4d96i-b7c2aad7i-4fc2aa2fi-49035b24i-a0a5c0cai-3230ad59i-ceeb58a2i-90d8fff3i-ae09b1cfi-329ae559i-0a97e861i-3e9ae555i-ced0abadi-361d3e5di-341d3e5fi-1489d377i-4709112ci-3b091150i-5709113ci-5a51b034i-89f3f3e1i-ff618b92i-5666f73ai-6066f70ci-86811ae3i-bc811ad9i-c8811aadi-d6811ab3i-d0811ab5i-9dc34ff2i-967328fci-3adf1c5fi-4081f82ai-4e81f824i-4481f82ei-4281f828i-bcaffed5i-d7fa8cbai-c61280aai-095aa861i-958e8bfei-61279d03i-d68fd3bei-9fd7f0ffi-1cfe1977i-f48c2991i-fe8c299bi-fa8c299fi-6f1e7100i-adee7fc0i-c18454aei-3d73455di-cb7345abi-61cb550ei-6e7f090fi-139c887ei-4019eb2bi-1217987ci-ef2f9382i-e837358bi-8c3634efi-18f08b76i-219da443i-5be4b83bi-122bd27ci-7a6d6219i-4ea6c324i-24d76a4ai-85a074e8i-38b79056i-54a81a31i-eca91b89i-02a81a67i-c0d8d1a9i-8b5c9ee6i-e2a66c88i-96c9f4f7i-83fd55eci-70517a1bi-b5906ad5i-c5e86ba5i-5ef88736i-a60faccei-e20c1b8ci-0f11ee62i-f00e5a91i-1b808b79i-e3d97f8ci-77d97d15i-c0bf91aai-a72228c5i-8cf428e9i-e4016e8ai-0506c867i-18a12179i-7ac2de10i-84368ee5i-e683a687i-e09fcf89i-dc9fcfb5i-ce9fcfa7i-d29fcfbbi-3a5d4059i-8c3e33efi-408ff229i-a80cebc6i-6a8d3a01i-87f968e8i-99f968f6i-7dd4d410i-41d4d42ci-d0b534bai-e0b7368ai-1334ce7ci-dd8830bdi-4e8e5020i-d0b7cfb5i-41f70721i-3a648950i-300b505ci-a00c1ccci-12ad4b77i-561d3e3di-5aad4b3fi-8c7301e0i-77158a15i-dcfb8bbfi-3486845di-e687858fi-e2b40389i-b2bd8fd8i-053b8f65i-93398df3i-013b8f61i-073b8f67i-f0505d9ei-deb4c8b6i-403d1228i-799c3e13i-a4dae5c0i-24220b43i-d21428b5i-078e6a61i-df1143b9i-ab1446cdi-4cca2b35i-acb757d5i-4006a439i-7260740ai-efe51a94i-0f3a9a74i-0d3a9a76i-033a9a78i-8319b9f8i-8119b9fai-8719b9fci-8519b9fei-5db2ca26i-69532812i-9cd216e6i-92d216e8i-90d216eai-96d216eci-94d216eei-88d216f2i-8ed216f4i-8cd216f6i-20599d5ai-26599d5ci-24599d5ei-1a599d60i-18599d62i-1e599d64i-c825a8b2i-1cf57e66i-66deb31ci-9519e8e8i-edb37d90i-dc2e04a1i-4b49af37i-336b594fi-c73dabb8i-838a1bfci-fb48d984i-0f26b770i-6329b81ci-8f7ae0f0i-ff7f6880i-5a57be24i-14ae456ai-6285791ci-fe31cd80i-5c10ec22i-0202fe7ci-267d8158i-807d81fei-18bc1766i-ffafcc8ei-0d2b627ci-a94900d8i-edb2fb9ci-9ba6eeeai-5da7ef2ci-9b074ceai-03064d72i-b33020c2i-0a2fea7ai-2875e442i-07fbda65i-a69bb1c5i-93f18cf1i-51de8733i-14149f7a
+07-23-2013-21-07-29: For region: us-west-1
+07-23-2013-21-07-29: Running ec2 instances IDs
+07-23-2013-21-07-29: Running ec2 instances IDs: 1342
+07-23-2013-21-07-29: Running EC2 Instances: 
+07-23-2013-21-07-29: For region: us-west-2
+07-23-2013-21-07-30: Running ec2 instances IDs
+07-23-2013-21-07-30: Running ec2 instances IDs: 1342
+07-23-2013-21-07-30: Running EC2 Instances: 
+07-23-2013-21-07-30: For region: eu-west-1
+07-23-2013-21-07-32: Running ec2 instances IDs
+07-23-2013-21-07-32: Running ec2 instances IDs: 1401
+07-23-2013-21-07-32: Running EC2 Instances: i-8a5a5cc3i-94ee0ad9i-bccd29f1i-22cb2f6fi-0e20c843i-a208e0efi-b816fef5i-b88368f5i-9208fddfi-1a0aff57i-96e410dbi-56bc7b1bi-82b97ecfi-78ba7835i-0adf1d47i-08ef2d45i-6870b225i-44300709i-4630070bi-4030070di-0c300741i-0a300747i-2030076di-2230076fi-883007c5i-ae3007e3i-a83007e5i-a43007e9i-4e3f0803i-503f081di-643f0829i-603f082di-0c3f0841i-2a3f0867i-66ebdc2bi-eeb389a3i-24a1a469i-a8a1a4e5i-5aa0a517i-68a0a525i-66a0a52bi-7ea0a533i-0ea0a543i-16a0a55bi-24a0a569i-82a0a5cfi-baa0a5f7i-b4a0a5f9i-66a3a62bi-76a3a63bi-72a3a63fi-ec5e58a1i-c0868f8di-d66d669bi-b60314fbi-b66c7ffbi-d529c69bi-e555baabi-d5b75c9b
+07-23-2013-21-07-32: For region: ap-northeast-1
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 1406
+07-23-2013-21-07-33: Running EC2 Instances: i-b795f6b7i-d795f6d7i-7394f773i-4d87f14di-ac2bb2af
+07-23-2013-21-07-33: For region: ap-southeast-1
+07-23-2013-21-07-35: Running ec2 instances IDs
+07-23-2013-21-07-35: Running ec2 instances IDs: 1406
+07-23-2013-21-07-35: Running EC2 Instances: 
+07-23-2013-21-07-35: For region: ap-southeast-2
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 1406
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: For region: sa-east-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 1406
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: Checking account: 6
+07-23-2013-21-07-36: For region: us-east-1
+07-23-2013-21-07-38: Running ec2 instances IDs
+07-23-2013-21-07-38: Running ec2 instances IDs: 1451
+07-23-2013-21-07-38: Running EC2 Instances: i-6eaed607i-816173e9i-7f33b11di-953f90f5i-5846e830i-5a46e832i-43e8872ei-b8bf06d9i-babf06dbi-e4bf0685i-e6bf0687i-d0591fb3i-026cc169i-937bc7f3i-5c78b839i-d82b4eb2i-b16ccfdci-27df8d4ai-ee0f5980i-826f15ebi-9c6f15f5i-c57e69a8i-970e10fci-6b0d1300i-d46d78b5i-d66d78b7i-1171727ci-cbf971a6i-8aadb4e4i-235bf741i-4c24e022i-f3c2f893i-68d9b009i-fa868893i-e6bfcd8ai-57a13d3ai-02c82b68i-3b2c2450i-2cf3a24bi-f6028f88i-f4028f8ai-cce745bci-24239554i-4eca503di-32536341
+07-23-2013-21-07-38: For region: us-west-1
+07-23-2013-21-07-38: Running ec2 instances IDs
+07-23-2013-21-07-38: Running ec2 instances IDs: 1451
+07-23-2013-21-07-38: Running EC2 Instances: 
+07-23-2013-21-07-38: For region: us-west-2
+07-23-2013-21-07-39: Running ec2 instances IDs
+07-23-2013-21-07-39: Running ec2 instances IDs: 1455
+07-23-2013-21-07-39: Running EC2 Instances: i-87d8d9b4i-b1e20a84i-fbaf40cfi-450ce371
+07-23-2013-21-07-39: For region: eu-west-1
+07-23-2013-21-07-40: Running ec2 instances IDs
+07-23-2013-21-07-40: Running ec2 instances IDs: 1458
+07-23-2013-21-07-40: Running EC2 Instances: i-ee2651a7i-87aa40cfi-8729dfcf
+07-23-2013-21-07-40: For region: ap-northeast-1
+07-23-2013-21-07-40: Running ec2 instances IDs
+07-23-2013-21-07-40: Running ec2 instances IDs: 1458
+07-23-2013-21-07-40: Running EC2 Instances: 
+07-23-2013-21-07-40: For region: ap-southeast-1
+07-23-2013-21-07-42: Running ec2 instances IDs
+07-23-2013-21-07-42: Running ec2 instances IDs: 1458
+07-23-2013-21-07-42: Running EC2 Instances: 
+07-23-2013-21-07-42: For region: ap-southeast-2
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 1458
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: sa-east-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 1458
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: writing to file node_to_delete
+07-23-2013-21-07-20: :starting
+07-23-2013-21-07-21: configuration files
+07-23-2013-21-07-21: number of accounts: 6
+07-23-2013-21-07-21: Checking account: 1
+07-23-2013-21-07-21: For region: us-east-1
+07-23-2013-21-07-28: Running ec2 instances IDs
+07-23-2013-21-07-28: Running ec2 instances IDs: 315
+07-23-2013-21-07-28: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-21-07-28: For region: us-west-1
+07-23-2013-21-07-28: Running ec2 instances IDs
+07-23-2013-21-07-28: Running ec2 instances IDs: 315
+07-23-2013-21-07-28: Running EC2 Instances: 
+07-23-2013-21-07-28: For region: us-west-2
+07-23-2013-21-07-29: Running ec2 instances IDs
+07-23-2013-21-07-29: Running ec2 instances IDs: 315
+07-23-2013-21-07-29: Running EC2 Instances: 
+07-23-2013-21-07-29: For region: eu-west-1
+07-23-2013-21-07-29: Running ec2 instances IDs
+07-23-2013-21-07-29: Running ec2 instances IDs: 315
+07-23-2013-21-07-29: Running EC2 Instances: 
+07-23-2013-21-07-29: For region: ap-northeast-1
+07-23-2013-21-07-30: Running ec2 instances IDs
+07-23-2013-21-07-30: Running ec2 instances IDs: 315
+07-23-2013-21-07-30: Running EC2 Instances: 
+07-23-2013-21-07-30: For region: ap-southeast-1
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 315
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: For region: ap-southeast-2
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 315
+07-23-2013-21-07-33: Running EC2 Instances: 
+07-23-2013-21-07-33: For region: sa-east-1
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 315
+07-23-2013-21-07-33: Running EC2 Instances: 
+07-23-2013-21-07-33: Checking account: 2
+07-23-2013-21-07-33: For region: us-east-1
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 315
+07-23-2013-21-07-33: Running EC2 Instances: 
+07-23-2013-21-07-33: For region: us-west-1
+07-23-2013-21-07-34: Running ec2 instances IDs
+07-23-2013-21-07-34: Running ec2 instances IDs: 315
+07-23-2013-21-07-34: Running EC2 Instances: 
+07-23-2013-21-07-34: For region: us-west-2
+07-23-2013-21-07-34: Running ec2 instances IDs
+07-23-2013-21-07-34: Running ec2 instances IDs: 315
+07-23-2013-21-07-34: Running EC2 Instances: 
+07-23-2013-21-07-34: For region: eu-west-1
+07-23-2013-21-07-38: Running ec2 instances IDs
+07-23-2013-21-07-38: Running ec2 instances IDs: 445
+07-23-2013-21-07-38: Running EC2 Instances: i-226f206bi-ab6583e3i-3bef1673i-3def1675i-abef16e3i-adef16e5i-67ee172fi-79ee1731i-759d663di-0c09ac47i-ec432ea7i-e2432ea9i-b8432ef3i-be432ef5i-70422f3bi-76422f3di-82422fc9i-c1a6938ai-27a1946ci-25a1946ei-3ba19470i-39a19472i-0ba09540i-09a09542i-fb7864b0i-a56d71eei-cf657984i-fb100cb0i-85100ccei-d054949ai-f0a063bai-9a1fc1d7i-6233ed2fi-7c33ed31i-7e33ed33i-7833ed35i-7a33ed37i-54420819i-5042081di-6c420821i-7e420833i-78420835i-24420869i-2642086bi-2042086di-28430965i-2a430967i-4e733903i-9cf9d8d1i-2a456767i-f80b03b5i-8c7b71c1i-d49d8899i-fe6a7bb3i-1007165di-5e322313i-58322315i-5a322317i-54322319i-5032231di-24322369i-ce322383i-e03223adi-fe3223b3i-44decf09i-40decf0di-2ec1d063i-74b3a239i-4077670di-68776725i-6077672di-6277672fi-0e776743i-08776745i-0a776747i-0677674bi-0077674di-0277674fi-1c776751i-1e776753i-966a7adbi-b46a7af9i-b66a7afbi-766b7b3bi-f02838bdi-ce8d9f83i-66564b2bi-a4dcc0e9i-c4a5b989i-14041a59i-d2041a9fi-bc041af1i-f66b72bbi-3c7c6771i-0a8b9047i-fd3edab1i-ef3fdba3i-933fdbdfi-a53fdbe9i-4b38dc07i-fb6783b7i-876783cbi-bd6783f1i-539b7c1fi-8dee09c1i-07d8394bi-11d8395di-bfdb3af3i-c3da3b8fi-b1da3bfdi-7ddd3c31i-15dd3c59i-7d0bea31i-4b0ced07i-bf51b8f1i-1150b95fi-cf50b981i-d98e6697i-d78e6699i-d18e669fi-0f8f6741i-0d8f6743i-058f674bi-39806877i-f98068b7i-f38068bdi-918068dfi-0d46ae43i-0b46ae45i-835fb7cd
+07-23-2013-21-07-38: For region: ap-northeast-1
+07-23-2013-21-07-42: Running ec2 instances IDs
+07-23-2013-21-07-42: Running ec2 instances IDs: 533
+07-23-2013-21-07-42: Running EC2 Instances: i-6b82586bi-65069065i-43d14b43i-45d14b45i-47d14b47i-49d14b49i-b9d14bb9i-bbd14bbbi-58dd175bi-2206bb21i-2006bb23i-4c06bb4fi-5206bb51i-7e06bb7di-7c06bb7fi-0601bc05i-369ffb35i-349ffb37i-3a9ffb39i-389ffb3bi-3e9ffb3di-bc9ffbbfi-c29ffbc1i-41bac342i-2fb2cb2ci-a9b4cdaai-c3b6cfc0i-c9b6cfcai-ed4517eei-c56e3cc6i-49cb1f4bi-4a75c248i-4875c24ai-4e75c24ci-4c75c24ei-5275c250i-50a2e652i-14ffa816i-1affa818i-28ffa82ai-2effa82ci-36ffa834i-3affa838i-64ffa866i-6affa868i-b6ffa8b4i-c0ffa8c2i-7e01577ci-80015782i-9a015798i-a00157a2i-760b5d74i-800b5d82i-860b5d84i-8a0b5d88i-a00b5da2i-a60b5da4i-a40b5da6i-ae0b5daci-ac0b5daei-b20b5db0i-b00b5db2i-b60b5db4i-b02771b2i-f68ed8f4i-6ce7b66ei-40a9fa42i-96a9fa94i-02dd8e00i-aaa7faa8i-7aa7fb78i-8c937e88i-06d23f02i-dc3ed3d8i-706c8174i-9ac8279ei-80c72884i-8ac7288ei-f0c728f4i-40c62944i-44d13e40i-68d03f6ci-402fc044i-12fb1516i-3a77993ei-46779942i-4e739d4ai-4a739d4e
+07-23-2013-21-07-42: For region: ap-southeast-1
+07-23-2013-21-07-43: Running ec2 instances IDs
+07-23-2013-21-07-43: Running ec2 instances IDs: 533
+07-23-2013-21-07-43: Running EC2 Instances: 
+07-23-2013-21-07-43: For region: ap-southeast-2
+07-23-2013-21-07-44: Running ec2 instances IDs
+07-23-2013-21-07-44: Running ec2 instances IDs: 533
+07-23-2013-21-07-44: Running EC2 Instances: 
+07-23-2013-21-07-44: For region: sa-east-1
+07-23-2013-21-07-44: Running ec2 instances IDs
+07-23-2013-21-07-44: Running ec2 instances IDs: 533
+07-23-2013-21-07-44: Running EC2 Instances: 
+07-23-2013-21-07-44: Checking account: 3
+07-23-2013-21-07-44: For region: us-east-1
+07-23-2013-21-07-48: Running ec2 instances IDs
+07-23-2013-21-07-48: Running ec2 instances IDs: 719
+07-23-2013-21-07-48: Running EC2 Instances: i-8ced4de6i-22859448i-523bad39i-e8873384i-1fbdd87di-981512f1i-d01314b9i-fa68ad9fi-c4fa06a5i-33944b5ci-930afafci-de6135bdi-d19b5cbci-71995e1ci-b48e1ed7i-338b6f51i-358b6f57i-5f8b6f3di-5c794730i-79064d1bi-b72c7ad5i-b52c7ad7i-62202101i-0aa6df64i-7c63251fi-21373f41i-27373f47i-3fef355fi-6f79ff02i-6d79ff00i-6b068006i-7779ff1ai-7179ff1ci-7379ff1ei-4c67c222i-92f0d8f3i-c6fdd5a7i-62befc08i-33ee185bi-e56ca087i-e96ca08bi-8d599de2i-d708eebfi-7bbd051bi-cdbd05adi-e00d9d81i-d4e072b5i-d6e072b7i-efe1bb8di-69e6bc0bi-4e402e20i-87bacae7i-8b6408e4i-41274a21i-7acde213i-b2d84edei-1f2fe07fi-5875963di-4e774520i-cecf8da0i-cacf8da4i-c8cf8da6i-aecf8dc0i-accf8dc2i-b4cf8ddai-b6cf8dd8i-b0cf8ddei-3b8e265bi-8b5eb4e3i-4788c128i-5c8cd235i-de21bfbfi-b7b068d5i-a4b2b4c7i-cb3c29a0i-5d048032i-5b048034i-1b655876i-57615c3ai-eda6aa8di-c3ad8aa3i-d8007ab2i-cb4deaa9i-b2c89dd8i-b6c89ddci-b4c89ddei-a2c89dc8i-a4c89dcei-a8c89dc2i-a6c89dcci-2ac2aa46i-864c9feei-0273a06ai-d913f1bbi-eac58684i-9c0175ffi-029af069i-6b93d804i-82e83ae7i-a1b37acci-3720315ai-0f2c2c64i-0e71376di-52942033i-992ee7f9i-9e7baaf2i-d2eceeb2i-debe17b6i-d0be17b8i-d2be17bai-c0be17a8i-c2be17aai-eb36fa88i-08b97e63i-12b97e79i-10b97e7bi-16b97e7di-d08302bei-83fc2fe0i-722c801ai-101b6873i-161b6875i-121a6971i-ac8cfec2i-8ef90fe5i-f22ffe99i-5032ab3ei-d02becbai-9a6acff6i-86bf22edi-84bf22efi-12dc8d7ai-aac44dcbi-48d95029i-90c44df1i-76d95017i-80df15e5i-18bf6970i-d8ca0cb2i-992f27f4i-98c5eff9i-d6b719bai-42134b28i-77f60917i-e8c2de82i-5835573bi-1a12d270i-69d5e404i-8a09e7e0i-0f343067i-6334300bi-1b343073i-1f343077i-d2feacb3i-75d7a117i-2690cb45i-245c7748i-265c774ai-185c7774i-14397078i-bd56b7ddi-505f3b3ci-ee01d384i-3b6c9e5ci-37cc6a51i-5db3b83bi-9f5b51f9i-1623616ci-31bf474ci-c7b64ebai-2dc68251i-69cb8f15i-b3e2a6cfi-2df3b751i-b92364c5i-f92e2185i-e8854996i-36ca0448i-34ca044ai-32ca044ci-30ca044ei-2eca0450i-c2cb05bci-cd8448adi-ab9792c6i-220b1041
+07-23-2013-21-07-48: For region: us-west-1
+07-23-2013-21-07-48: Running ec2 instances IDs
+07-23-2013-21-07-48: Running ec2 instances IDs: 719
+07-23-2013-21-07-48: Running EC2 Instances: 
+07-23-2013-21-07-48: For region: us-west-2
+07-23-2013-21-07-49: Running ec2 instances IDs
+07-23-2013-21-07-49: Running ec2 instances IDs: 719
+07-23-2013-21-07-49: Running EC2 Instances: 
+07-23-2013-21-07-49: For region: eu-west-1
+07-23-2013-21-07-49: Running ec2 instances IDs
+07-23-2013-21-07-49: Running ec2 instances IDs: 719
+07-23-2013-21-07-49: Running EC2 Instances: 
+07-23-2013-21-07-49: For region: ap-northeast-1
+07-23-2013-21-07-50: Running ec2 instances IDs
+07-23-2013-21-07-50: Running ec2 instances IDs: 719
+07-23-2013-21-07-50: Running EC2 Instances: 
+07-23-2013-21-07-50: For region: ap-southeast-1
+07-23-2013-21-07-51: Running ec2 instances IDs
+07-23-2013-21-07-51: Running ec2 instances IDs: 719
+07-23-2013-21-07-51: Running EC2 Instances: 
+07-23-2013-21-07-51: For region: ap-southeast-2
+07-23-2013-21-07-53: Running ec2 instances IDs
+07-23-2013-21-07-53: Running ec2 instances IDs: 719
+07-23-2013-21-07-53: Running EC2 Instances: 
+07-23-2013-21-07-53: For region: sa-east-1
+07-23-2013-21-07-53: Running ec2 instances IDs
+07-23-2013-21-07-53: Running ec2 instances IDs: 719
+07-23-2013-21-07-53: Running EC2 Instances: 
+07-23-2013-21-07-53: Checking account: 4
+07-23-2013-21-07-53: For region: us-east-1
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 719
+07-23-2013-21-07-54: Running EC2 Instances: 
+07-23-2013-21-07-54: For region: us-west-1
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 719
+07-23-2013-21-07-54: Running EC2 Instances: 
+07-23-2013-21-07-54: For region: us-west-2
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 719
+07-23-2013-21-07-54: Running EC2 Instances: 
+07-23-2013-21-07-54: For region: eu-west-1
+07-23-2013-21-07-58: Running ec2 instances IDs
+07-23-2013-21-07-58: Running ec2 instances IDs: 829
+07-23-2013-21-07-58: Running EC2 Instances: i-d63c409fi-48100f01i-5b679313i-bf01f7f7i-1a905e51i-6ed91725i-7800ce33i-feb927b5i-eab52ba1i-e6b52badi-aab52be1i-9eae30d5i-8b5e00c0i-895e00c2i-8f5e00c4i-8d5e00c6i-835e00c8i-dd5f0196i-d35f0198i-451b3d0ei-1c728c56i-c0a11e8ai-da4f4790i-6a51ca27i-6451ca29i-6651ca2bi-c2d0b58fi-dcd0b591i-ded0b593i-d8d0b595i-f0b7dabdi-cc661681i-a46616e9i-a66616ebi-ba5121f7i-4c522201i-6e522223i-d040309di-f64030bbi-f04030bdi-964838dbi-904838ddi-924838dfi-b24838ffi-6a493927i-68493925i-da4f3f97i-d84f3f95i-d44f3f99i-52ed931fi-58792815i-6279282fi-1e792853i-a26839efi-826b3acfi-ae6b3ae3i-ce8fde83i-e08fdeadi-e28fdeafi-dcb2e391i-7ab9e837i-2ab9e867i-2a085a67i-886c41c5i-fef7cfb3i-a02621edi-bc2621f1i-b22621ffi-5c252211i-0225224fi-18252255i-14252259i-c025228di-e42522a9i-fe2522b3i-fa2522b7i-f42522b9i-f62522bbi-3c242371i-3e242373i-38242375i-3a242377i-9c2423d1i-70cccb3di-c245438fi-d645439bi-f04543bdi-884543c5i-8a4543c7i-844543c9i-864543cbi-804543cdi-904543ddi-4e424403i-48424405i-4042440di-6042442di-d8424495i-704e483di-6a575127i-78575135i-7a575137i-1e575153i-d05f599di-408e8c0di-fc4950b1i-08021b45i-18021b55i-fbca2db7i-bfc92ef3
+07-23-2013-21-07-58: For region: ap-northeast-1
+07-23-2013-21-07-03: Running ec2 instances IDs
+07-23-2013-21-07-03: Running ec2 instances IDs: 988
+07-23-2013-21-07-03: Running EC2 Instances: i-3318c433i-1f14c81fi-5dae755di-a724aaa7i-eb8215ebi-3b44d73bi-f149daf1i-07039f07i-b1a03fb1i-8b52cd8bi-e3b22ce3i-e425eee7i-c84a81cbi-1a408b19i-425d9641i-3e5c973di-28579c2bi-b0cd7ab3i-d2cb7cd1i-eacb7ce9i-f2cb7cf1i-32ca7d31i-3423b337i-3a23b339i-3823b33bi-3e23b33di-3c23b33fi-7423b377i-7a23b379i-1975211ai-f925e8fbi-f27a18f0i-2a723e28i-5836785ai-5a367858i-5e36785ci-5c36785ei-62367860i-60367862i-66367864i-7e36787ci-7c36787ei-82367880i-8a367888i-8e36788ci-aa3678a8i-b23678b0i-b03678b2i-b63678b4i-c43678c6i-fe3678fci-02377900i-9c6e209ei-c26e20c0i-c66e20c4i-d26e20d0i-60460f62i-8e58118ci-225d1420i-625e1760i-12531a10i-10551c12i-10692012i-b66b22b4i-b66c25b4i-7e61287ci-ac632aaei-fa652cf8i-dc672edei-50b6ff52i-0cc9800ei-12c98010i-6ed1986ci-e6e6aee4i-b2fbb3b0i-8cfdb58ei-5af0b858i-d2f2bad0i-d6f4bcd4i-caf6bec8i-f80a41fai-fe0843fci-a00e45a2i-ba0c47b8i-2e014a2ci-d2004bd0i-ba064db8i-b4044fb6i-b01952b2i-9c1f549ei-ba1d56b8i-fe1358fci-94105b96i-0e155e0ci-0a396e08i-32673730i-42693940i-c26b3bc0i-e66d3de4i-3490c036i-7492c276i-8e95c58ci-8697c784i-869bcb84i-449ece46i-3880d03ai-3882d23ai-7285d570i-8487d786i-aa89d9a8i-788ddd7ai-06b0e004i-5eb4e45ci-e8b6e6eai-74baea76i-a8bcecaai-02bfef00i-9aa1f198i-7ea5f57ci-9ea7f79ci-eca9f9eei-7cacfc7ei-f0aefef2i-3ed1813ci-32d38330i-6cd5856ei-60d78762i-dada8ad8i-32dd8d30i-94df8f96i-acc191aei-2ac49428i-aec696aci-2ec9992ci-04cb9b06i-dece9edci-a8f0a0aai-46f3a344i-36f5a534i-cef7a7cci-d6faaad4i-6efdad6ci-e4acf0e6i-3ea8f43ci-1aa9f518i-68abf76ai-0ca6fa0ei-32a0fc30i-22df8320i-0eda860ci-c2da86c0i-a2d589a0i-94d78b96i-b4d28eb6i-2acd9128i-96cf9394i-32ca9630i-dac498d8i-bc29c7b8
+07-23-2013-21-07-03: For region: ap-southeast-1
+07-23-2013-21-07-04: Running ec2 instances IDs
+07-23-2013-21-07-04: Running ec2 instances IDs: 988
+07-23-2013-21-07-04: Running EC2 Instances: 
+07-23-2013-21-07-04: For region: ap-southeast-2
+07-23-2013-21-07-05: Running ec2 instances IDs
+07-23-2013-21-07-05: Running ec2 instances IDs: 988
+07-23-2013-21-07-05: Running EC2 Instances: 
+07-23-2013-21-07-05: For region: sa-east-1
+07-23-2013-21-07-06: Running ec2 instances IDs
+07-23-2013-21-07-06: Running ec2 instances IDs: 988
+07-23-2013-21-07-06: Running EC2 Instances: 
+07-23-2013-21-07-06: Checking account: 5
+07-23-2013-21-07-06: For region: us-east-1
+07-23-2013-21-07-14: Running ec2 instances IDs
+07-23-2013-21-07-14: Running ec2 instances IDs: 1342
+07-23-2013-21-07-14: Running EC2 Instances: i-dd560eb0i-9974fbf6i-c5a89caai-0cfb5e60i-d6f85dbai-c2f85daei-a23b70c1i-bc3b70dfi-7838731bi-6e38730di-50387333i-66387305i-a0332dc1i-36322c57i-12322c73i-60322c01i-68fe9506i-77e07017i-ed221a8di-8e68f5e2i-86ebbee7i-90a112f1i-c6a712adi-aa6eabcfi-d86eabbdi-c26eaba7i-cc6eaba9i-f46eab91i-f26eab97i-5be8423bi-5c384a36i-c04618a3i-ab2c5ac9i-3b451059i-71878c13i-81878ce3i-24ed4847i-07a65768i-60a0e601i-eea4af82i-135b637ci-30ea8653i-50344d38i-35b97558i-e4ca1885i-07bf9167i-5445263ei-f159ab99i-587a3539i-c65b76afi-1a25ce74i-38da965di-f1848c9ci-1c486575i-1248657bi-70cd981ei-50b4b93ai-ef9ac582i-a19ac5cci-7cb9f516i-7a20441fi-9a45a9f1i-6619dd03i-67fcc407i-ca8cefa0i-dc8cefb6i-d2f567b3i-585c4f34i-ea9c2e81i-e8823083i-cc8230a7i-ec9c2e87i-0779cf6fi-b0e8f0d1i-f8f6ee99i-12529271i-4a764021i-1f72067fi-19720679i-1b72067bi-11720671i-46b3912ei-6aad8f02i-a8dc60c9i-d4fb52b8i-70fb521ci-9a1e29fbi-1a1e297bi-1c1e297di-141e2975i-ce2abca0i-98d2b0f6i-00cd8268i-57be803fi-4432dd27i-db23e5b9i-df23e5bdi-e923e58bi-d723e5b5i-e723e585i-e523e587i-c923e5abi-cf23e5adi-7141d511i-2741d547i-f0230899i-62c20f0ci-74c20f1ai-7ac20f14i-22707648i-5b0e4539i-782dbb12i-d00f18bei-208dda43i-43f2fe23i-fd774f9fi-67774f05i-9f43eef0i-0add6366i-4e761420i-b33cdfd3i-2369924bi-a9539acbi-c96c7dabi-d16c7db3i-d96c7dbbi-f30bcd91i-9908cefbi-8508cee7i-b681d8dai-b3cc76d1i-87cc76e5i-d9cc76bbi-0f628167i-3972cb59i-6972cb09i-1b61d671i-92c8d1f1i-37fec255i-3dfec25fi-15fec277i-f84f4d96i-b7c2aad7i-4fc2aa2fi-49035b24i-a0a5c0cai-3230ad59i-ceeb58a2i-90d8fff3i-ae09b1cfi-329ae559i-0a97e861i-3e9ae555i-ced0abadi-361d3e5di-341d3e5fi-1489d377i-4709112ci-3b091150i-5709113ci-5a51b034i-89f3f3e1i-ff618b92i-5666f73ai-6066f70ci-86811ae3i-bc811ad9i-c8811aadi-d6811ab3i-d0811ab5i-9dc34ff2i-967328fci-3adf1c5fi-4081f82ai-4e81f824i-4481f82ei-4281f828i-bcaffed5i-d7fa8cbai-c61280aai-095aa861i-958e8bfei-61279d03i-d68fd3bei-9fd7f0ffi-1cfe1977i-f48c2991i-fe8c299bi-fa8c299fi-6f1e7100i-adee7fc0i-c18454aei-3d73455di-cb7345abi-61cb550ei-6e7f090fi-139c887ei-4019eb2bi-1217987ci-ef2f9382i-e837358bi-8c3634efi-18f08b76i-219da443i-5be4b83bi-122bd27ci-7a6d6219i-4ea6c324i-24d76a4ai-85a074e8i-38b79056i-54a81a31i-eca91b89i-02a81a67i-c0d8d1a9i-8b5c9ee6i-e2a66c88i-96c9f4f7i-83fd55eci-70517a1bi-b5906ad5i-c5e86ba5i-5ef88736i-a60faccei-e20c1b8ci-0f11ee62i-f00e5a91i-1b808b79i-e3d97f8ci-77d97d15i-c0bf91aai-a72228c5i-8cf428e9i-e4016e8ai-0506c867i-18a12179i-7ac2de10i-84368ee5i-e683a687i-e09fcf89i-dc9fcfb5i-ce9fcfa7i-d29fcfbbi-3a5d4059i-8c3e33efi-408ff229i-a80cebc6i-6a8d3a01i-87f968e8i-99f968f6i-7dd4d410i-41d4d42ci-d0b534bai-e0b7368ai-1334ce7ci-dd8830bdi-4e8e5020i-d0b7cfb5i-41f70721i-3a648950i-300b505ci-a00c1ccci-12ad4b77i-561d3e3di-5aad4b3fi-8c7301e0i-77158a15i-dcfb8bbfi-3486845di-e687858fi-e2b40389i-b2bd8fd8i-053b8f65i-93398df3i-013b8f61i-073b8f67i-f0505d9ei-deb4c8b6i-403d1228i-799c3e13i-a4dae5c0i-24220b43i-d21428b5i-078e6a61i-df1143b9i-ab1446cdi-4cca2b35i-acb757d5i-4006a439i-7260740ai-efe51a94i-0f3a9a74i-0d3a9a76i-033a9a78i-8319b9f8i-8119b9fai-8719b9fci-8519b9fei-5db2ca26i-69532812i-9cd216e6i-92d216e8i-90d216eai-96d216eci-94d216eei-88d216f2i-8ed216f4i-8cd216f6i-20599d5ai-26599d5ci-24599d5ei-1a599d60i-18599d62i-1e599d64i-c825a8b2i-1cf57e66i-66deb31ci-9519e8e8i-edb37d90i-dc2e04a1i-4b49af37i-336b594fi-c73dabb8i-838a1bfci-fb48d984i-0f26b770i-6329b81ci-8f7ae0f0i-ff7f6880i-5a57be24i-14ae456ai-6285791ci-fe31cd80i-5c10ec22i-0202fe7ci-267d8158i-807d81fei-18bc1766i-ffafcc8ei-0d2b627ci-a94900d8i-edb2fb9ci-9ba6eeeai-5da7ef2ci-9b074ceai-03064d72i-b33020c2i-0a2fea7ai-2875e442i-07fbda65i-a69bb1c5i-93f18cf1i-51de8733i-14149f7a
+07-23-2013-21-07-14: For region: us-west-1
+07-23-2013-21-07-15: Running ec2 instances IDs
+07-23-2013-21-07-15: Running ec2 instances IDs: 1342
+07-23-2013-21-07-15: Running EC2 Instances: 
+07-23-2013-21-07-15: For region: us-west-2
+07-23-2013-21-07-15: Running ec2 instances IDs
+07-23-2013-21-07-15: Running ec2 instances IDs: 1342
+07-23-2013-21-07-15: Running EC2 Instances: 
+07-23-2013-21-07-15: For region: eu-west-1
+07-23-2013-21-07-18: Running ec2 instances IDs
+07-23-2013-21-07-18: Running ec2 instances IDs: 1401
+07-23-2013-21-07-18: Running EC2 Instances: i-8a5a5cc3i-94ee0ad9i-bccd29f1i-22cb2f6fi-0e20c843i-a208e0efi-b816fef5i-b88368f5i-9208fddfi-1a0aff57i-96e410dbi-56bc7b1bi-82b97ecfi-78ba7835i-0adf1d47i-08ef2d45i-6870b225i-44300709i-4630070bi-4030070di-0c300741i-0a300747i-2030076di-2230076fi-883007c5i-ae3007e3i-a83007e5i-a43007e9i-4e3f0803i-503f081di-643f0829i-603f082di-0c3f0841i-2a3f0867i-66ebdc2bi-eeb389a3i-24a1a469i-a8a1a4e5i-5aa0a517i-68a0a525i-66a0a52bi-7ea0a533i-0ea0a543i-16a0a55bi-24a0a569i-82a0a5cfi-baa0a5f7i-b4a0a5f9i-66a3a62bi-76a3a63bi-72a3a63fi-ec5e58a1i-c0868f8di-d66d669bi-b60314fbi-b66c7ffbi-d529c69bi-e555baabi-d5b75c9b
+07-23-2013-21-07-18: For region: ap-northeast-1
+07-23-2013-21-07-19: Running ec2 instances IDs
+07-23-2013-21-07-19: Running ec2 instances IDs: 1406
+07-23-2013-21-07-19: Running EC2 Instances: i-b795f6b7i-d795f6d7i-7394f773i-4d87f14di-ac2bb2af
+07-23-2013-21-07-19: For region: ap-southeast-1
+07-23-2013-21-07-20: Running ec2 instances IDs
+07-23-2013-21-07-20: Running ec2 instances IDs: 1406
+07-23-2013-21-07-20: Running EC2 Instances: 
+07-23-2013-21-07-20: For region: ap-southeast-2
+07-23-2013-21-07-21: Running ec2 instances IDs
+07-23-2013-21-07-21: Running ec2 instances IDs: 1406
+07-23-2013-21-07-21: Running EC2 Instances: 
+07-23-2013-21-07-21: For region: sa-east-1
+07-23-2013-21-07-22: Running ec2 instances IDs
+07-23-2013-21-07-22: Running ec2 instances IDs: 1406
+07-23-2013-21-07-22: Running EC2 Instances: 
+07-23-2013-21-07-22: Checking account: 6
+07-23-2013-21-07-22: For region: us-east-1
+07-23-2013-21-07-23: Running ec2 instances IDs
+07-23-2013-21-07-23: Running ec2 instances IDs: 1451
+07-23-2013-21-07-23: Running EC2 Instances: i-6eaed607i-816173e9i-7f33b11di-953f90f5i-5846e830i-5a46e832i-43e8872ei-b8bf06d9i-babf06dbi-e4bf0685i-e6bf0687i-d0591fb3i-026cc169i-937bc7f3i-5c78b839i-d82b4eb2i-b16ccfdci-27df8d4ai-ee0f5980i-826f15ebi-9c6f15f5i-c57e69a8i-970e10fci-6b0d1300i-d46d78b5i-d66d78b7i-1171727ci-cbf971a6i-8aadb4e4i-235bf741i-4c24e022i-f3c2f893i-68d9b009i-fa868893i-e6bfcd8ai-57a13d3ai-02c82b68i-3b2c2450i-2cf3a24bi-f6028f88i-f4028f8ai-cce745bci-24239554i-4eca503di-32536341
+07-23-2013-21-07-23: For region: us-west-1
+07-23-2013-21-07-23: Running ec2 instances IDs
+07-23-2013-21-07-23: Running ec2 instances IDs: 1451
+07-23-2013-21-07-23: Running EC2 Instances: 
+07-23-2013-21-07-23: For region: us-west-2
+07-23-2013-21-07-24: Running ec2 instances IDs
+07-23-2013-21-07-24: Running ec2 instances IDs: 1455
+07-23-2013-21-07-24: Running EC2 Instances: i-87d8d9b4i-b1e20a84i-fbaf40cfi-450ce371
+07-23-2013-21-07-24: For region: eu-west-1
+07-23-2013-21-07-24: Running ec2 instances IDs
+07-23-2013-21-07-24: Running ec2 instances IDs: 1458
+07-23-2013-21-07-24: Running EC2 Instances: i-ee2651a7i-87aa40cfi-8729dfcf
+07-23-2013-21-07-24: For region: ap-northeast-1
+07-23-2013-21-07-25: Running ec2 instances IDs
+07-23-2013-21-07-25: Running ec2 instances IDs: 1458
+07-23-2013-21-07-25: Running EC2 Instances: 
+07-23-2013-21-07-25: For region: ap-southeast-1
+07-23-2013-21-07-26: Running ec2 instances IDs
+07-23-2013-21-07-26: Running ec2 instances IDs: 1458
+07-23-2013-21-07-26: Running EC2 Instances: 
+07-23-2013-21-07-26: For region: ap-southeast-2
+07-23-2013-21-07-27: Running ec2 instances IDs
+07-23-2013-21-07-27: Running ec2 instances IDs: 1458
+07-23-2013-21-07-27: Running EC2 Instances: 
+07-23-2013-21-07-27: For region: sa-east-1
+07-23-2013-21-07-28: Running ec2 instances IDs
+07-23-2013-21-07-28: Running ec2 instances IDs: 1458
+07-23-2013-21-07-28: Running EC2 Instances: 
+07-23-2013-21-07-28: writing to file node_to_delete
+07-23-2013-21-07-38: number of TERMINATED: 1000
+07-23-2013-21-07-23: :starting
+07-23-2013-21-07-24: configuration files
+07-23-2013-21-07-24: number of accounts: 6
+07-23-2013-21-07-24: Checking account: 1
+07-23-2013-21-07-24: For region: us-east-1
+07-23-2013-21-07-30: Running ec2 instances IDs
+07-23-2013-21-07-30: Running ec2 instances IDs: 315
+07-23-2013-21-07-30: Running EC2 Instances: i-24d7e545i-28d7e549i-2ad7e54bi-4cd7e52di-562b0f38i-7435111ai-1c7f5675i-107f5679i-127f567bi-1c59fa70i-1059fa7ci-1259fa7ei-11ca6b7ei-cefc90adi-fbdbd090i-f61a9a9ai-8e1a9ae2i-b15556dei-bea881dfi-235b2c41i-6cd89602i-6095c103i-4a1b5a21i-481b5a23i-4e1b5a25i-541b5a3fi-7fb31f1fi-bc67dfd2i-fe75669di-fc75669fi-28796a4bi-f0756693i-1325b071i-d3745ab1i-d1745ab3i-d5745ab7i-e1810b81i-f3944193i-b907b3dbi-0e4f0766i-32315653i-2c08194di-0da30e67i-11a30e7bi-2c2b6e49i-00296f65i-60e40f05i-32e47657i-4e7f132di-e939c281i-c58af4aai-02a44767i-0ca44769i-2959f249i-2b59f24bi-77b8ee1ai-38c60b59i-75123f1ai-25d31c47i-3af0cf56i-e7233a8fi-13c66b71i-00b99968i-12520b73i-6e753905i-741c7e17i-6a1c7e09i-42004929i-4000492bi-46fb3425i-4cfb342fi-8c52bcefi-1f2a297fi-70dbbc1bi-76dbbc1di-74dbbc1fi-72dbbc19i-44cd6b27i-720a791ei-e89e4c83i-ee9e4c85i-ec9e4c87i-369b495di-349b495fi-bb0c82d4i-fa16a49fi-b7837ed8i-b5837edai-2fba004fi-b0d026dei-66dc2a08i-64dc2a0ai-62dc2a0ci-b44c5fdai-3073605ei-cd2cbdafi-ecbc378di-f0bc3791i-f2bc3793i-02332261i-ba1e7dd6i-55cf8635i-916906f1i-df3fccb7i-b285b4d3i-b485b4d5i-2da4bf42i-a3eed7cci-c5eed7aai-c3eed7aci-c1eed7aei-1cff5370i-1eff5372i-c4ff53a8i-42c8022ci-f712af9fi-ae2d4ccfi-7eae6612i-339f235bi-1e83de74i-1c83de76i-607e710ai-5ef65b3fi-69393904i-dc73a0b2i-c42518aei-ac228ecfi-b9f829d9i-bbf829dbi-26624c4ei-62b1cd0ai-e74aa38fi-168dbe75i-228dbe41i-208dbe43i-50e2d53bi-aae69ac4i-840552eai-f6ef9095i-57185835i-1d3b047fi-0e1ea160i-0c1ea162i-eb122b86i-cfe1d7a0i-d3e1d7bci-d1e1d7bei-23eed84ci-eac65f81i-bd6342d0i-1c39877di-66a44703i-0bebb164i-53c11a33i-55c11a35i-7494f51fi-e96e268bi-a21f9cc3i-83e5b9eei-1fb16e7di-bcbf32d2i-be1d59d5i-cfa214afi-debc30b5i-d0bc30bbi-7e46b61bi-d322afb1i-d122afb3i-0123ae63i-2b584f46i-9a2ad3f6i-ae2fd6c2i-19d51a7bi-59b18d39i-5db18d3di-5fb18d3fi-5f000d37i-5003e133i-f21b2291i-00cedf61i-0d57e167i-b123cbdei-bc5d05d4i-e772f987i-2c58584ci-f4885e91i-a82682c4i-a62682cai-68248004i-6a248006i-9a2682f6i-942682f8i-962682fai-0eedd067i-00edd069i-ccf0cda5i-e3774b8bi-010c056ai-b439ced7i-4f48a127i-3c08ef56i-ee7c6f87i-0068c16ei-86f858eai-f0eab193i-be7070d2i-02f5296ci-7a913c16i-10913c7ci-df62e7b5i-8963e6e3i-90f1e0f1i-787c1e10i-38f9145di-2df40040i-4e2aaa25i-9a17b4f4i-2410b34ai-8078f0eci-8278f0eei-14a50875i-c66e14a5i-1612e37ai-1012e37ci-3412e358i-901ba4fei-f3d3c49bi-e857f789i-ee57f78fi-ba54f4dbi-bc54f4ddi-6858f809i-5e54f43fi-2be2fe49i-3cf9c856i-1a21b072i-b25ae4d1i-91bb90fei-a6b82fcci-a204f1cci-0ee89065i-152b3677i-1b2b3679i-2f2b364di-332b3651i-312b3653i-3d2b365fi-052b3667i-032b3661i-0f2b366di-0d2b366fi-7be3a719i-1425c777i-f225c791i-f625c795i-f425c797i-aeb363c6i-e2b7678ai-5cb76734i-ea100884i-e8100886i-3c5dfe52i-f28fcb98i-c8e366a4i-cae366a6i-96e366fai-90e366fci-1b160f70i-1d160f76i-4adb8d2bi-c400a2a5i-b39319dbi-6c37180di-10371871i-c18e0daci-25931048i-2793104ai-9df25bf7i-d9f25bb3i-dff25bb5i-ddf25bb7i-ee8e8f87i-35b74a52i-202a6047i-164a0071i-8251bcfai-9c470ae1i-035a287fi-85552ff9i-cb1b18b7i-81c4c7fdi-e7cbc89bi-8fcbc8f3i-29cac955i-8cbf44f3i-2ac50055i-84c005fbi-82c005fdi-d6cf0aa9i-d4cf0aabi-2cc80d53i-2ac80d55i-18d61367i-3ce02543i-f6ed2889i-e4b7c79ai-5a4e3d24i-584e3d26i-564e3d28i-544e3d2ai-82b3c0fci-80b3c0fei-1669ab65i-beb435cdi-8a0900f9
+07-23-2013-21-07-30: For region: us-west-1
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 315
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: For region: us-west-2
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 315
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: For region: eu-west-1
+07-23-2013-21-07-32: Running ec2 instances IDs
+07-23-2013-21-07-32: Running ec2 instances IDs: 315
+07-23-2013-21-07-32: Running EC2 Instances: 
+07-23-2013-21-07-32: For region: ap-northeast-1
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 315
+07-23-2013-21-07-33: Running EC2 Instances: 
+07-23-2013-21-07-33: For region: ap-southeast-1
+07-23-2013-21-07-34: Running ec2 instances IDs
+07-23-2013-21-07-34: Running ec2 instances IDs: 315
+07-23-2013-21-07-34: Running EC2 Instances: 
+07-23-2013-21-07-34: For region: ap-southeast-2
+07-23-2013-21-07-35: Running ec2 instances IDs
+07-23-2013-21-07-35: Running ec2 instances IDs: 315
+07-23-2013-21-07-35: Running EC2 Instances: 
+07-23-2013-21-07-35: For region: sa-east-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 315
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: Checking account: 2
+07-23-2013-21-07-36: For region: us-east-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 315
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: For region: us-west-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 315
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: For region: us-west-2
+07-23-2013-21-07-37: Running ec2 instances IDs
+07-23-2013-21-07-37: Running ec2 instances IDs: 315
+07-23-2013-21-07-37: Running EC2 Instances: 
+07-23-2013-21-07-37: For region: eu-west-1
+07-23-2013-21-07-41: Running ec2 instances IDs
+07-23-2013-21-07-41: Running ec2 instances IDs: 445
+07-23-2013-21-07-41: Running EC2 Instances: i-226f206bi-ab6583e3i-3bef1673i-3def1675i-abef16e3i-adef16e5i-67ee172fi-79ee1731i-759d663di-0c09ac47i-ec432ea7i-e2432ea9i-b8432ef3i-be432ef5i-70422f3bi-76422f3di-82422fc9i-c1a6938ai-27a1946ci-25a1946ei-3ba19470i-39a19472i-0ba09540i-09a09542i-fb7864b0i-a56d71eei-cf657984i-fb100cb0i-85100ccei-d054949ai-f0a063bai-9a1fc1d7i-6233ed2fi-7c33ed31i-7e33ed33i-7833ed35i-7a33ed37i-54420819i-5042081di-6c420821i-7e420833i-78420835i-24420869i-2642086bi-2042086di-28430965i-2a430967i-4e733903i-9cf9d8d1i-2a456767i-f80b03b5i-8c7b71c1i-d49d8899i-fe6a7bb3i-1007165di-5e322313i-58322315i-5a322317i-54322319i-5032231di-24322369i-ce322383i-e03223adi-fe3223b3i-44decf09i-40decf0di-2ec1d063i-74b3a239i-4077670di-68776725i-6077672di-6277672fi-0e776743i-08776745i-0a776747i-0677674bi-0077674di-0277674fi-1c776751i-1e776753i-966a7adbi-b46a7af9i-b66a7afbi-766b7b3bi-f02838bdi-ce8d9f83i-66564b2bi-a4dcc0e9i-c4a5b989i-14041a59i-d2041a9fi-bc041af1i-f66b72bbi-3c7c6771i-0a8b9047i-fd3edab1i-ef3fdba3i-933fdbdfi-a53fdbe9i-4b38dc07i-fb6783b7i-876783cbi-bd6783f1i-539b7c1fi-8dee09c1i-07d8394bi-11d8395di-bfdb3af3i-c3da3b8fi-b1da3bfdi-7ddd3c31i-15dd3c59i-7d0bea31i-4b0ced07i-bf51b8f1i-1150b95fi-cf50b981i-d98e6697i-d78e6699i-d18e669fi-0f8f6741i-0d8f6743i-058f674bi-39806877i-f98068b7i-f38068bdi-918068dfi-0d46ae43i-0b46ae45i-835fb7cd
+07-23-2013-21-07-41: For region: ap-northeast-1
+07-23-2013-21-07-45: Running ec2 instances IDs
+07-23-2013-21-07-45: Running ec2 instances IDs: 533
+07-23-2013-21-07-45: Running EC2 Instances: i-6b82586bi-65069065i-43d14b43i-45d14b45i-47d14b47i-49d14b49i-b9d14bb9i-bbd14bbbi-58dd175bi-2206bb21i-2006bb23i-4c06bb4fi-5206bb51i-7e06bb7di-7c06bb7fi-0601bc05i-369ffb35i-349ffb37i-3a9ffb39i-389ffb3bi-3e9ffb3di-bc9ffbbfi-c29ffbc1i-41bac342i-2fb2cb2ci-a9b4cdaai-c3b6cfc0i-c9b6cfcai-ed4517eei-c56e3cc6i-49cb1f4bi-4a75c248i-4875c24ai-4e75c24ci-4c75c24ei-5275c250i-50a2e652i-14ffa816i-1affa818i-28ffa82ai-2effa82ci-36ffa834i-3affa838i-64ffa866i-6affa868i-b6ffa8b4i-c0ffa8c2i-7e01577ci-80015782i-9a015798i-a00157a2i-760b5d74i-800b5d82i-860b5d84i-8a0b5d88i-a00b5da2i-a60b5da4i-a40b5da6i-ae0b5daci-ac0b5daei-b20b5db0i-b00b5db2i-b60b5db4i-b02771b2i-f68ed8f4i-6ce7b66ei-40a9fa42i-96a9fa94i-02dd8e00i-aaa7faa8i-7aa7fb78i-8c937e88i-06d23f02i-dc3ed3d8i-706c8174i-9ac8279ei-80c72884i-8ac7288ei-f0c728f4i-40c62944i-44d13e40i-68d03f6ci-402fc044i-12fb1516i-3a77993ei-46779942i-4e739d4ai-4a739d4e
+07-23-2013-21-07-45: For region: ap-southeast-1
+07-23-2013-21-07-46: Running ec2 instances IDs
+07-23-2013-21-07-46: Running ec2 instances IDs: 533
+07-23-2013-21-07-46: Running EC2 Instances: 
+07-23-2013-21-07-46: For region: ap-southeast-2
+07-23-2013-21-07-47: Running ec2 instances IDs
+07-23-2013-21-07-47: Running ec2 instances IDs: 533
+07-23-2013-21-07-47: Running EC2 Instances: 
+07-23-2013-21-07-47: For region: sa-east-1
+07-23-2013-21-07-48: Running ec2 instances IDs
+07-23-2013-21-07-48: Running ec2 instances IDs: 533
+07-23-2013-21-07-48: Running EC2 Instances: 
+07-23-2013-21-07-48: Checking account: 3
+07-23-2013-21-07-48: For region: us-east-1
+07-23-2013-21-07-53: Running ec2 instances IDs
+07-23-2013-21-07-53: Running ec2 instances IDs: 719
+07-23-2013-21-07-53: Running EC2 Instances: i-8ced4de6i-22859448i-523bad39i-e8873384i-1fbdd87di-981512f1i-d01314b9i-fa68ad9fi-c4fa06a5i-33944b5ci-930afafci-de6135bdi-d19b5cbci-71995e1ci-b48e1ed7i-338b6f51i-358b6f57i-5f8b6f3di-5c794730i-79064d1bi-b72c7ad5i-b52c7ad7i-62202101i-0aa6df64i-7c63251fi-21373f41i-27373f47i-3fef355fi-6f79ff02i-6d79ff00i-6b068006i-7779ff1ai-7179ff1ci-7379ff1ei-4c67c222i-92f0d8f3i-c6fdd5a7i-62befc08i-33ee185bi-e56ca087i-e96ca08bi-8d599de2i-d708eebfi-7bbd051bi-cdbd05adi-e00d9d81i-d4e072b5i-d6e072b7i-efe1bb8di-69e6bc0bi-4e402e20i-87bacae7i-8b6408e4i-41274a21i-7acde213i-b2d84edei-1f2fe07fi-5875963di-4e774520i-cecf8da0i-cacf8da4i-c8cf8da6i-aecf8dc0i-accf8dc2i-b4cf8ddai-b6cf8dd8i-b0cf8ddei-3b8e265bi-8b5eb4e3i-4788c128i-5c8cd235i-de21bfbfi-b7b068d5i-a4b2b4c7i-cb3c29a0i-5d048032i-5b048034i-1b655876i-57615c3ai-eda6aa8di-c3ad8aa3i-d8007ab2i-cb4deaa9i-b2c89dd8i-b6c89ddci-b4c89ddei-a2c89dc8i-a4c89dcei-a8c89dc2i-a6c89dcci-2ac2aa46i-864c9feei-0273a06ai-d913f1bbi-eac58684i-9c0175ffi-029af069i-6b93d804i-82e83ae7i-a1b37acci-3720315ai-0f2c2c64i-0e71376di-52942033i-992ee7f9i-9e7baaf2i-d2eceeb2i-debe17b6i-d0be17b8i-d2be17bai-c0be17a8i-c2be17aai-eb36fa88i-08b97e63i-12b97e79i-10b97e7bi-16b97e7di-d08302bei-83fc2fe0i-722c801ai-101b6873i-161b6875i-121a6971i-ac8cfec2i-8ef90fe5i-f22ffe99i-5032ab3ei-d02becbai-9a6acff6i-86bf22edi-84bf22efi-12dc8d7ai-aac44dcbi-48d95029i-90c44df1i-76d95017i-80df15e5i-18bf6970i-d8ca0cb2i-992f27f4i-98c5eff9i-d6b719bai-42134b28i-77f60917i-e8c2de82i-5835573bi-1a12d270i-69d5e404i-8a09e7e0i-0f343067i-6334300bi-1b343073i-1f343077i-d2feacb3i-75d7a117i-2690cb45i-245c7748i-265c774ai-185c7774i-14397078i-bd56b7ddi-505f3b3ci-ee01d384i-3b6c9e5ci-37cc6a51i-5db3b83bi-9f5b51f9i-1623616ci-31bf474ci-c7b64ebai-2dc68251i-69cb8f15i-b3e2a6cfi-2df3b751i-b92364c5i-f92e2185i-e8854996i-36ca0448i-34ca044ai-32ca044ci-30ca044ei-2eca0450i-c2cb05bci-cd8448adi-ab9792c6i-220b1041
+07-23-2013-21-07-53: For region: us-west-1
+07-23-2013-21-07-53: Running ec2 instances IDs
+07-23-2013-21-07-53: Running ec2 instances IDs: 719
+07-23-2013-21-07-53: Running EC2 Instances: 
+07-23-2013-21-07-53: For region: us-west-2
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 719
+07-23-2013-21-07-54: Running EC2 Instances: 
+07-23-2013-21-07-54: For region: eu-west-1
+07-23-2013-21-07-54: Running ec2 instances IDs
+07-23-2013-21-07-54: Running ec2 instances IDs: 719
+07-23-2013-21-07-54: Running EC2 Instances: 
+07-23-2013-21-07-54: For region: ap-northeast-1
+07-23-2013-21-07-55: Running ec2 instances IDs
+07-23-2013-21-07-55: Running ec2 instances IDs: 719
+07-23-2013-21-07-55: Running EC2 Instances: 
+07-23-2013-21-07-55: For region: ap-southeast-1
+07-23-2013-21-07-56: Running ec2 instances IDs
+07-23-2013-21-07-56: Running ec2 instances IDs: 719
+07-23-2013-21-07-56: Running EC2 Instances: 
+07-23-2013-21-07-56: For region: ap-southeast-2
+07-23-2013-21-07-57: Running ec2 instances IDs
+07-23-2013-21-07-57: Running ec2 instances IDs: 719
+07-23-2013-21-07-57: Running EC2 Instances: 
+07-23-2013-21-07-57: For region: sa-east-1
+07-23-2013-21-07-58: Running ec2 instances IDs
+07-23-2013-21-07-58: Running ec2 instances IDs: 719
+07-23-2013-21-07-58: Running EC2 Instances: 
+07-23-2013-21-07-58: Checking account: 4
+07-23-2013-21-07-58: For region: us-east-1
+07-23-2013-21-07-58: Running ec2 instances IDs
+07-23-2013-21-07-58: Running ec2 instances IDs: 719
+07-23-2013-21-07-58: Running EC2 Instances: 
+07-23-2013-21-07-58: For region: us-west-1
+07-23-2013-21-07-59: Running ec2 instances IDs
+07-23-2013-21-07-59: Running ec2 instances IDs: 719
+07-23-2013-21-07-59: Running EC2 Instances: 
+07-23-2013-21-07-59: For region: us-west-2
+07-23-2013-21-07-59: Running ec2 instances IDs
+07-23-2013-21-07-59: Running ec2 instances IDs: 719
+07-23-2013-21-07-59: Running EC2 Instances: 
+07-23-2013-21-07-59: For region: eu-west-1
+07-23-2013-21-07-04: Running ec2 instances IDs
+07-23-2013-21-07-04: Running ec2 instances IDs: 829
+07-23-2013-21-07-04: Running EC2 Instances: i-d63c409fi-48100f01i-5b679313i-bf01f7f7i-1a905e51i-6ed91725i-7800ce33i-feb927b5i-eab52ba1i-e6b52badi-aab52be1i-9eae30d5i-8b5e00c0i-895e00c2i-8f5e00c4i-8d5e00c6i-835e00c8i-dd5f0196i-d35f0198i-451b3d0ei-1c728c56i-c0a11e8ai-da4f4790i-6a51ca27i-6451ca29i-6651ca2bi-c2d0b58fi-dcd0b591i-ded0b593i-d8d0b595i-f0b7dabdi-cc661681i-a46616e9i-a66616ebi-ba5121f7i-4c522201i-6e522223i-d040309di-f64030bbi-f04030bdi-964838dbi-904838ddi-924838dfi-b24838ffi-6a493927i-68493925i-da4f3f97i-d84f3f95i-d44f3f99i-52ed931fi-58792815i-6279282fi-1e792853i-a26839efi-826b3acfi-ae6b3ae3i-ce8fde83i-e08fdeadi-e28fdeafi-dcb2e391i-7ab9e837i-2ab9e867i-2a085a67i-886c41c5i-fef7cfb3i-a02621edi-bc2621f1i-b22621ffi-5c252211i-0225224fi-18252255i-14252259i-c025228di-e42522a9i-fe2522b3i-fa2522b7i-f42522b9i-f62522bbi-3c242371i-3e242373i-38242375i-3a242377i-9c2423d1i-70cccb3di-c245438fi-d645439bi-f04543bdi-884543c5i-8a4543c7i-844543c9i-864543cbi-804543cdi-904543ddi-4e424403i-48424405i-4042440di-6042442di-d8424495i-704e483di-6a575127i-78575135i-7a575137i-1e575153i-d05f599di-408e8c0di-fc4950b1i-08021b45i-18021b55i-fbca2db7i-bfc92ef3
+07-23-2013-21-07-04: For region: ap-northeast-1
+07-23-2013-21-07-12: Running ec2 instances IDs
+07-23-2013-21-07-12: Running ec2 instances IDs: 988
+07-23-2013-21-07-12: Running EC2 Instances: i-3318c433i-1f14c81fi-5dae755di-a724aaa7i-eb8215ebi-3b44d73bi-f149daf1i-07039f07i-b1a03fb1i-8b52cd8bi-e3b22ce3i-e425eee7i-c84a81cbi-1a408b19i-425d9641i-3e5c973di-28579c2bi-b0cd7ab3i-d2cb7cd1i-eacb7ce9i-f2cb7cf1i-32ca7d31i-3423b337i-3a23b339i-3823b33bi-3e23b33di-3c23b33fi-7423b377i-7a23b379i-1975211ai-f925e8fbi-f27a18f0i-2a723e28i-5836785ai-5a367858i-5e36785ci-5c36785ei-62367860i-60367862i-66367864i-7e36787ci-7c36787ei-82367880i-8a367888i-8e36788ci-aa3678a8i-b23678b0i-b03678b2i-b63678b4i-c43678c6i-fe3678fci-02377900i-9c6e209ei-c26e20c0i-c66e20c4i-d26e20d0i-60460f62i-8e58118ci-225d1420i-625e1760i-12531a10i-10551c12i-10692012i-b66b22b4i-b66c25b4i-7e61287ci-ac632aaei-fa652cf8i-dc672edei-50b6ff52i-0cc9800ei-12c98010i-6ed1986ci-e6e6aee4i-b2fbb3b0i-8cfdb58ei-5af0b858i-d2f2bad0i-d6f4bcd4i-caf6bec8i-f80a41fai-fe0843fci-a00e45a2i-ba0c47b8i-2e014a2ci-d2004bd0i-ba064db8i-b4044fb6i-b01952b2i-9c1f549ei-ba1d56b8i-fe1358fci-94105b96i-0e155e0ci-0a396e08i-32673730i-42693940i-c26b3bc0i-e66d3de4i-3490c036i-7492c276i-8e95c58ci-8697c784i-869bcb84i-449ece46i-3880d03ai-3882d23ai-7285d570i-8487d786i-aa89d9a8i-788ddd7ai-06b0e004i-5eb4e45ci-e8b6e6eai-74baea76i-a8bcecaai-02bfef00i-9aa1f198i-7ea5f57ci-9ea7f79ci-eca9f9eei-7cacfc7ei-f0aefef2i-3ed1813ci-32d38330i-6cd5856ei-60d78762i-dada8ad8i-32dd8d30i-94df8f96i-acc191aei-2ac49428i-aec696aci-2ec9992ci-04cb9b06i-dece9edci-a8f0a0aai-46f3a344i-36f5a534i-cef7a7cci-d6faaad4i-6efdad6ci-e4acf0e6i-3ea8f43ci-1aa9f518i-68abf76ai-0ca6fa0ei-32a0fc30i-22df8320i-0eda860ci-c2da86c0i-a2d589a0i-94d78b96i-b4d28eb6i-2acd9128i-96cf9394i-32ca9630i-dac498d8i-bc29c7b8
+07-23-2013-21-07-12: For region: ap-southeast-1
+07-23-2013-21-07-13: Running ec2 instances IDs
+07-23-2013-21-07-13: Running ec2 instances IDs: 988
+07-23-2013-21-07-13: Running EC2 Instances: 
+07-23-2013-21-07-13: For region: ap-southeast-2
+07-23-2013-21-07-14: Running ec2 instances IDs
+07-23-2013-21-07-14: Running ec2 instances IDs: 988
+07-23-2013-21-07-14: Running EC2 Instances: 
+07-23-2013-21-07-14: For region: sa-east-1
+07-23-2013-21-07-15: Running ec2 instances IDs
+07-23-2013-21-07-15: Running ec2 instances IDs: 988
+07-23-2013-21-07-15: Running EC2 Instances: 
+07-23-2013-21-07-15: Checking account: 5
+07-23-2013-21-07-15: For region: us-east-1
+07-23-2013-21-07-24: Running ec2 instances IDs
+07-23-2013-21-07-24: Running ec2 instances IDs: 1342
+07-23-2013-21-07-24: Running EC2 Instances: i-dd560eb0i-9974fbf6i-c5a89caai-0cfb5e60i-d6f85dbai-c2f85daei-a23b70c1i-bc3b70dfi-7838731bi-6e38730di-50387333i-66387305i-a0332dc1i-36322c57i-12322c73i-60322c01i-68fe9506i-77e07017i-ed221a8di-8e68f5e2i-86ebbee7i-90a112f1i-c6a712adi-aa6eabcfi-d86eabbdi-c26eaba7i-cc6eaba9i-f46eab91i-f26eab97i-5be8423bi-5c384a36i-c04618a3i-ab2c5ac9i-3b451059i-71878c13i-81878ce3i-24ed4847i-07a65768i-60a0e601i-eea4af82i-135b637ci-30ea8653i-50344d38i-35b97558i-e4ca1885i-07bf9167i-5445263ei-f159ab99i-587a3539i-1a25ce74i-38da965di-f1848c9ci-1c486575i-1248657bi-70cd981ei-50b4b93ai-ef9ac582i-a19ac5cci-7cb9f516i-7a20441fi-9a45a9f1i-6619dd03i-67fcc407i-ca8cefa0i-dc8cefb6i-d2f567b3i-585c4f34i-ea9c2e81i-e8823083i-cc8230a7i-ec9c2e87i-0779cf6fi-b0e8f0d1i-f8f6ee99i-12529271i-4a764021i-1f72067fi-19720679i-1b72067bi-11720671i-46b3912ei-6aad8f02i-a8dc60c9i-d4fb52b8i-70fb521ci-9a1e29fbi-1a1e297bi-1c1e297di-141e2975i-ce2abca0i-98d2b0f6i-00cd8268i-57be803fi-4432dd27i-db23e5b9i-df23e5bdi-e923e58bi-d723e5b5i-e723e585i-e523e587i-c923e5abi-cf23e5adi-7141d511i-2741d547i-f0230899i-62c20f0ci-74c20f1ai-7ac20f14i-22707648i-5b0e4539i-782dbb12i-d00f18bei-208dda43i-43f2fe23i-fd774f9fi-67774f05i-9f43eef0i-0add6366i-4e761420i-b33cdfd3i-2369924bi-a9539acbi-c96c7dabi-d16c7db3i-d96c7dbbi-f30bcd91i-9908cefbi-8508cee7i-b681d8dai-b3cc76d1i-87cc76e5i-d9cc76bbi-0f628167i-3972cb59i-6972cb09i-1b61d671i-92c8d1f1i-37fec255i-3dfec25fi-15fec277i-f84f4d96i-b7c2aad7i-4fc2aa2fi-49035b24i-a0a5c0cai-3230ad59i-ceeb58a2i-90d8fff3i-ae09b1cfi-329ae559i-0a97e861i-3e9ae555i-bdca5cddi-ced0abadi-361d3e5di-341d3e5fi-1489d377i-4709112ci-3b091150i-5709113ci-5a51b034i-89f3f3e1i-ff618b92i-5666f73ai-6066f70ci-86811ae3i-bc811ad9i-c8811aadi-d6811ab3i-d0811ab5i-9dc34ff2i-967328fci-3adf1c5fi-4081f82ai-4e81f824i-4481f82ei-4281f828i-bcaffed5i-d7fa8cbai-c61280aai-095aa861i-958e8bfei-61279d03i-d68fd3bei-9fd7f0ffi-1cfe1977i-f48c2991i-fe8c299bi-fa8c299fi-6f1e7100i-adee7fc0i-c18454aei-3d73455di-cb7345abi-61cb550ei-6e7f090fi-139c887ei-4019eb2bi-1217987ci-ef2f9382i-e837358bi-8c3634efi-18f08b76i-219da443i-5be4b83bi-122bd27ci-7a6d6219i-4ea6c324i-24d76a4ai-85a074e8i-38b79056i-54a81a31i-eca91b89i-02a81a67i-c0d8d1a9i-8b5c9ee6i-e2a66c88i-96c9f4f7i-83fd55eci-70517a1bi-b5906ad5i-c5e86ba5i-5ef88736i-a60faccei-e20c1b8ci-0f11ee62i-f00e5a91i-1b808b79i-e3d97f8ci-77d97d15i-c0bf91aai-a72228c5i-8cf428e9i-e4016e8ai-0506c867i-18a12179i-7ac2de10i-84368ee5i-e683a687i-e09fcf89i-dc9fcfb5i-ce9fcfa7i-d29fcfbbi-3a5d4059i-8c3e33efi-408ff229i-a80cebc6i-6a8d3a01i-87f968e8i-99f968f6i-7dd4d410i-41d4d42ci-d0b534bai-e0b7368ai-1334ce7ci-dd8830bdi-4e8e5020i-d0b7cfb5i-41f70721i-3a648950i-300b505ci-a00c1ccci-12ad4b77i-561d3e3di-5aad4b3fi-8c7301e0i-77158a15i-dcfb8bbfi-3486845di-e687858fi-e2b40389i-b2bd8fd8i-053b8f65i-93398df3i-013b8f61i-073b8f67i-f0505d9ei-deb4c8b6i-403d1228i-799c3e13i-a4dae5c0i-24220b43i-d21428b5i-078e6a61i-df1143b9i-ab1446cdi-4cca2b35i-acb757d5i-4006a439i-7260740ai-efe51a94i-0f3a9a74i-0d3a9a76i-033a9a78i-8319b9f8i-8119b9fai-8719b9fci-8519b9fei-5db2ca26i-69532812i-9cd216e6i-92d216e8i-90d216eai-96d216eci-94d216eei-88d216f2i-8ed216f4i-8cd216f6i-20599d5ai-26599d5ci-24599d5ei-1a599d60i-18599d62i-1e599d64i-c825a8b2i-1cf57e66i-66deb31ci-9519e8e8i-edb37d90i-dc2e04a1i-4b49af37i-336b594fi-c73dabb8i-838a1bfci-fb48d984i-0f26b770i-6329b81ci-8f7ae0f0i-ff7f6880i-5a57be24i-14ae456ai-6285791ci-fe31cd80i-5c10ec22i-0202fe7ci-267d8158i-807d81fei-18bc1766i-ffafcc8ei-0d2b627ci-a94900d8i-edb2fb9ci-9ba6eeeai-5da7ef2ci-9b074ceai-03064d72i-b33020c2i-0a2fea7ai-2875e442i-07fbda65i-a69bb1c5i-93f18cf1i-51de8733i-14149f7a
+07-23-2013-21-07-24: For region: us-west-1
+07-23-2013-21-07-24: Running ec2 instances IDs
+07-23-2013-21-07-24: Running ec2 instances IDs: 1342
+07-23-2013-21-07-24: Running EC2 Instances: 
+07-23-2013-21-07-24: For region: us-west-2
+07-23-2013-21-07-24: Running ec2 instances IDs
+07-23-2013-21-07-24: Running ec2 instances IDs: 1342
+07-23-2013-21-07-24: Running EC2 Instances: 
+07-23-2013-21-07-24: For region: eu-west-1
+07-23-2013-21-07-27: Running ec2 instances IDs
+07-23-2013-21-07-27: Running ec2 instances IDs: 1401
+07-23-2013-21-07-27: Running EC2 Instances: i-8a5a5cc3i-94ee0ad9i-bccd29f1i-22cb2f6fi-0e20c843i-a208e0efi-b816fef5i-b88368f5i-9208fddfi-1a0aff57i-96e410dbi-56bc7b1bi-82b97ecfi-78ba7835i-0adf1d47i-08ef2d45i-6870b225i-44300709i-4630070bi-4030070di-0c300741i-0a300747i-2030076di-2230076fi-883007c5i-ae3007e3i-a83007e5i-a43007e9i-4e3f0803i-503f081di-643f0829i-603f082di-0c3f0841i-2a3f0867i-66ebdc2bi-eeb389a3i-24a1a469i-a8a1a4e5i-5aa0a517i-68a0a525i-66a0a52bi-7ea0a533i-0ea0a543i-16a0a55bi-24a0a569i-82a0a5cfi-baa0a5f7i-b4a0a5f9i-66a3a62bi-76a3a63bi-72a3a63fi-ec5e58a1i-c0868f8di-d66d669bi-b60314fbi-b66c7ffbi-d529c69bi-e555baabi-d5b75c9b
+07-23-2013-21-07-27: For region: ap-northeast-1
+07-23-2013-21-07-28: Running ec2 instances IDs
+07-23-2013-21-07-28: Running ec2 instances IDs: 1406
+07-23-2013-21-07-28: Running EC2 Instances: i-b795f6b7i-d795f6d7i-7394f773i-4d87f14di-ac2bb2af
+07-23-2013-21-07-28: For region: ap-southeast-1
+07-23-2013-21-07-29: Running ec2 instances IDs
+07-23-2013-21-07-29: Running ec2 instances IDs: 1406
+07-23-2013-21-07-29: Running EC2 Instances: 
+07-23-2013-21-07-29: For region: ap-southeast-2
+07-23-2013-21-07-30: Running ec2 instances IDs
+07-23-2013-21-07-30: Running ec2 instances IDs: 1406
+07-23-2013-21-07-30: Running EC2 Instances: 
+07-23-2013-21-07-30: For region: sa-east-1
+07-23-2013-21-07-31: Running ec2 instances IDs
+07-23-2013-21-07-31: Running ec2 instances IDs: 1406
+07-23-2013-21-07-31: Running EC2 Instances: 
+07-23-2013-21-07-31: Checking account: 6
+07-23-2013-21-07-31: For region: us-east-1
+07-23-2013-21-07-32: Running ec2 instances IDs
+07-23-2013-21-07-32: Running ec2 instances IDs: 1451
+07-23-2013-21-07-32: Running EC2 Instances: i-6eaed607i-816173e9i-7f33b11di-953f90f5i-5846e830i-5a46e832i-43e8872ei-b8bf06d9i-babf06dbi-e4bf0685i-e6bf0687i-d0591fb3i-026cc169i-937bc7f3i-5c78b839i-d82b4eb2i-b16ccfdci-27df8d4ai-ee0f5980i-826f15ebi-9c6f15f5i-c57e69a8i-970e10fci-6b0d1300i-d46d78b5i-d66d78b7i-1171727ci-cbf971a6i-8aadb4e4i-235bf741i-4c24e022i-f3c2f893i-68d9b009i-fa868893i-e6bfcd8ai-57a13d3ai-02c82b68i-3b2c2450i-2cf3a24bi-f6028f88i-f4028f8ai-cce745bci-24239554i-4eca503di-32536341
+07-23-2013-21-07-32: For region: us-west-1
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 1451
+07-23-2013-21-07-33: Running EC2 Instances: 
+07-23-2013-21-07-33: For region: us-west-2
+07-23-2013-21-07-33: Running ec2 instances IDs
+07-23-2013-21-07-33: Running ec2 instances IDs: 1455
+07-23-2013-21-07-33: Running EC2 Instances: i-87d8d9b4i-b1e20a84i-fbaf40cfi-450ce371
+07-23-2013-21-07-33: For region: eu-west-1
+07-23-2013-21-07-34: Running ec2 instances IDs
+07-23-2013-21-07-34: Running ec2 instances IDs: 1458
+07-23-2013-21-07-34: Running EC2 Instances: i-ee2651a7i-87aa40cfi-8729dfcf
+07-23-2013-21-07-34: For region: ap-northeast-1
+07-23-2013-21-07-35: Running ec2 instances IDs
+07-23-2013-21-07-35: Running ec2 instances IDs: 1458
+07-23-2013-21-07-35: Running EC2 Instances: 
+07-23-2013-21-07-35: For region: ap-southeast-1
+07-23-2013-21-07-36: Running ec2 instances IDs
+07-23-2013-21-07-36: Running ec2 instances IDs: 1458
+07-23-2013-21-07-36: Running EC2 Instances: 
+07-23-2013-21-07-36: For region: ap-southeast-2
+07-23-2013-21-07-37: Running ec2 instances IDs
+07-23-2013-21-07-37: Running ec2 instances IDs: 1458
+07-23-2013-21-07-37: Running EC2 Instances: 
+07-23-2013-21-07-37: For region: sa-east-1
+07-23-2013-21-07-38: Running ec2 instances IDs
+07-23-2013-21-07-38: Running ec2 instances IDs: 1458
+07-23-2013-21-07-38: Running EC2 Instances: 
+07-23-2013-21-07-38: writing to file node_to_delete
+07-23-2013-21-07-47: number of TERMINATED: 689

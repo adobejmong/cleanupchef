@@ -1,0 +1,7 @@
+#define s3 bucket name
+s3_environment1 = adobe-cloudops-files
+#define files on s3
+credentials = credentials.txt
+#define S3 IAM User
+s3_accesskey = 'AKIAJ2KXRVL3FQQO4MQA'
+s3_secretkey = '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'
