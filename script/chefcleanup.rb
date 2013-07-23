@@ -12,9 +12,9 @@ accessvalues = ""
 secretvalues = ""
 array = [] #array of hash to store{access_key,secret_key}
 number_accounts = 0 #number of AWS accounts
+ec2_ids = [] #running instances array
 number_of_running_instances=0 #number of running instances
 number_of_terminated_nodes=0 #number of terminated instances
-ec2_ids = [] #running instances array
 number_of_registered_nodes=0 #number of registered instances
 #configuration parameters can be modified in $initial_config_file (global variable)
 bucket_name= get_string_from_file($initial_config_file,'s3_bucket_name = ')
@@ -22,7 +22,7 @@ aws_accounts_file = get_string_from_file($initial_config_file,'aws_accounts_file
 chef_config_file = get_string_from_file($initial_config_file,'chef_config_file = ')
 number_of_subscribed_nodes= get_string_from_file($initial_config_file,'chef_subscribed_nodes = ')
 
-write_to_log(":starting\n")
+write_to_log(":starting\n") #write to log file
 
 #GET CONFIGURATION FILES
 #S3 bucket Access and Secret Keys
@@ -116,7 +116,7 @@ file_cw.write("nodes_registered=#{number_of_registered_nodes}\n")
 file_cw.write("nodes_active= #{number_of_registered_nodes-number_of_terminated_nodes}\n")
 
 
-#delete nodes script
+#TODO:delete nodes script 
 ##TODO:Using Cross Delegation
 
     
