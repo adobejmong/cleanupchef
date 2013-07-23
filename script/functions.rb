@@ -1,10 +1,10 @@
 require 'aws'
 require 'aws-sdk'
 
-$initial_config_file = '../localfiles/initial_config.txt'
-$cw_metrics_values_file = '../localfiles/cw_metrics.txt'
+$initial_config_file = '../localfiles/initial_config.txt' #local configuration file 
+$cw_metrics_values_file = '../localfiles/cw_metrics.txt' #Values pushed to Cloud Watch
 
-#Check if file exist
+#Check if file exists
 def file_or_directory_exist(directorypath)
   directoryname= File.dirname(directorypath)
   unless File.directory?(directoryname)
@@ -32,13 +32,14 @@ def read_file(filepath,regex)
   return lines
 end
 
-#Write to File
+#Write to log file
 def write_to_log(stringtowrite)
   File.open("../localfiles/logs.txt", 'ab') do |file| #append to end of file
     file.write(Time.now.strftime("%m-%d-%Y-%H-%m-%S") + ": " + stringtowrite)
   end
 end
 
+#get a specific string from a text
 def get_string_from_file(filepath,regex)
   line_for_regex = ""
   lines = read_file(filepath,regex)
