@@ -1,0 +1,3 @@
+nodes_subscribed = 2000
+nodes_active = 0
+nodes_registered = 1000
