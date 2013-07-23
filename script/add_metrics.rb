@@ -26,16 +26,6 @@ AWS.config(
 @cw = AWS::CloudWatch.new
 puts "Correct Endpoint? : #{@cw.client.endpoint} "
 
-=begin
-resp = cw.client.list_metrics
-resp[:metrics].each do |metric|
-        puts metric
-end
-=end
-
-
-
-
 @namespace = namespace
 @name = metric1
 @sample_metrics = AWS::CloudWatch::Metric.new(@namespace,@name)
