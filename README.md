@@ -1,12 +1,12 @@
-The script detect terminated nodes and offers the possibility to delete them from the Chef server
+The script detects terminated nodes and offers the possibility to delete them from the Chef server
 
 ####FOLDER HIERARCHY:
 
-script/chefcleanup.rb
-script/add_metrics.rb
-script/functions.rb
-localfiles/initial_config.txt
-output/
+- script/chefcleanup.rb
+- script/add_metrics.rb
+- script/functions.rb
+- localfiles/initial_config.txt
+- output/
 
 ####BEFORE YOU START
 
@@ -17,7 +17,20 @@ Make sure you have the following dependencies:
    - Get the number of nodes subscribed (nodes allowed by Opscode)
 - [2] AWS accounts Credentials 
    - Get your AWS Accounts Credentials (Access Key and Secret Key) of IAM users that are authorized to run 'ec2-describe-instances'
-   - Place them in a file (e.g, credentials.txt)
+   - Place them in a file (e.g, credentials.txt) as shown below
+
+```
+#AWS Account Number 1
+access = XXXXXXXXXXXXXXX
+secret = XXXXXXXXXXXXXXXXXXXXX
+#AWS Account Number 1
+access = XXXXXXXXXXXXXXX
+secret = XXXXXXXXXXXXXXXXXXXXX
+#AWS Account Number n
+access = XXXXXXXXXXXXXXX
+secret = XXXXXXXXXXXXXXXXXXXXX
+```
+   - 
    - Check the file localfiles/credentials for the format
 - [3] S3 Bucket
    - Create an S3 Bucket and get its name
@@ -77,7 +90,7 @@ ruby cleanupchef.rb
 - Script to run to delete nodes from the chef server ( #####TODO###)
 
 ####RUN CLOUDWATCH SCRIPT
-######## v
+#################TODO####
 
 ####RUN DELETE SCRIPT
 #################TODO####
