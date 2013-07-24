@@ -1,2 +1,0 @@
-Instance Name; Instance ID, AWS Region
-SC-PROD-EW1-A_LocalGroverContainer_i-e03223ad;i-e03223ad;
