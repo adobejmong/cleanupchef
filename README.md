@@ -39,11 +39,11 @@ secret = XXXXXXXXXXXXXXXXXXXXX
     - Choose a namespace and metrics names
     
 
-####COPY FILES TO S3 BUCKET (from Step (3))
+####COPY FILES TO S3 BUCKET (from Step [3])
 
-- Chef configuration File (Step (1))
+- Chef configuration File (from Step [1])
 - The validation client's private key
-- Credentials file in Step (3)
+- Credentials file (from Step [3])
     
 ####EDIT CONFIGURATION FILE
 
@@ -55,24 +55,24 @@ Before you run the script:
 ```
 ################Template###########################
 #Main Credentials: S3 bucket Access and Secret Keys
-s3_accesskey = from step (3)
-s3_secretkey = from step (3)
+s3_accesskey = from step [3]
+s3_secretkey = from step [3]
 #Bucket name
-s3_bucket_name = from step (3)
+s3_bucket_name = from step [3]
 #AWS Accounts Credentials File
-aws_accounts_file = from step (2)
+aws_accounts_file = from step [2]
 #Chef Config file (knife file)
-chef_config_file = from step (1)
+chef_config_file = from step [1]
 #Number of nodes subscribed
-chef_subscribed_nodes = from step (1)
+chef_subscribed_nodes = from step [1]
 #CloudWatch IAM User Credentials
-cw_access_key = from step (4)
-cw_secret_key = from step (4)
+cw_access_key = from step [4]
+cw_secret_key = from step [4]
 #Cloudwatch Metrics
-namespace = from step (4)
-metric1 = from step (4)
-metric2 = from step (4)
-metric3 = from step (4)
+namespace = from step [4]
+metric1 = from step [4]
+metric2 = from step [4]
+metric3 = from step [4]
 ```
 
 ####RUN THE SCRIPT
