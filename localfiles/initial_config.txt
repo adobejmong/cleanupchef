@@ -1,19 +1,19 @@
 #Main Credentials: S3 bucket Access and Secret Keys
-s3_accesskey = AKIAJ2KXRVL3FQQO4MQA
-s3_secretkey = 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
+s3_accesskey = XXXXXXXXXXXXXXXX
+s3_secretkey = XXXXXXXXXXXXXXXXXXXXXXXX
 #Bucket name
-s3_bucket_name = adobe-cloudops-files
+s3_bucket_name = XXXXXXXXXXX
 #AWS Accounts Credentials File
-aws_accounts_file = credentials.txt
+aws_accounts_file = XXXXXXXXXXX.txt
 #Chef Config file (knife file)
-chef_config_file = knife.rb
+chef_config_file = XXXXXXXXXXX.rb
 #Number of nodes subscribed
-chef_subscribed_nodes = 2000
+chef_subscribed_nodes = XXXX
 #CloudWatch IAM User Credentials
-cw_access_key = AKIAJWUFND7XWURWMTCA
-cw_secret_key = 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
+cw_access_key = XXXXXXXXXXX
+cw_secret_key = XXXXXXXXXXXXXXXXXXXXXX
 #Cloudwatch Metrics
-namespace = CloudOps
-metric1 = NodesSubscribed
-metric2 = NodesRegistered
-metric3 = NodesActive
+namespace = XXXXXXXXXXX
+metric1 = XXXXXXXXXXX
+metric2 = XXXXXXXXXXX
+metric3 = XXXXXXXXXXX
