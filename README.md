@@ -2,6 +2,8 @@ The script detect terminated nodes and offers the possibility to delete them fro
 
 ####BEFORE YOU START
 
+Make sure you have the following dependencies:
+
 - [1] Chef Configuration File
    - Get your chef-repo-specific configuration details for Knife (e.g., knife.rb)
    - Get the number of nodes subscribed (nodes allowed by Opscode)
