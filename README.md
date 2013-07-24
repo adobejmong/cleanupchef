@@ -1,5 +1,13 @@
 The script detect terminated nodes and offers the possibility to delete them from the Chef server
 
+####FOLDER HIERARCHY:
+
+script/chefcleanup.rb
+script/add_metrics.rb
+script/functions.rb
+localfiles/initial_config.txt
+output/
+
 ####BEFORE YOU START
 
 Make sure you have the following dependencies:
@@ -29,10 +37,11 @@ Make sure you have the following dependencies:
 ####EDIT CONFIGURATION FILE
 
 Before you run the script:
-Create 'initial_config.txt' from the template below file under /localfiles and 
-Edit the fields by replacing 'from step (x)' with the corresponding values from the section above. 
-!!!!!Please make sure to keep the space before and after the =.
+- Create 'initial_config.txt' from the template below file under /localfiles and 
+- Edit the fields by replacing 'from step (x)' with the corresponding values from the section above. 
+- !!!!!Please make sure to keep the space before and after the =.
 
+```
 ################Template###########################
 #Main Credentials: S3 bucket Access and Secret Keys
 s3_accesskey = from step (3)
@@ -53,24 +62,24 @@ namespace = from step (4)
 metric1 = from step (4)
 metric2 = from step (4)
 metric3 = from step (4)
-
+```
 
 ####RUN THE SCRIPT
 
-# ruby cleanupchef.rb
+ruby cleanupchef.rb
 
 
 ####OUTPUT
 
-1- Log file (logs.txt) under output
-2- Cloud Watch values (cw_metrics.txt) under output 
-3- Terminated instances (nodes_to_delete---mm-dd-yyyy-hh.txt)
-4- Script to run to delete nodes from the chef server #TODO
+- Log file (logs.txt) under output
+- Cloud Watch values (cw_metrics.txt) under output 
+- Terminated instances (nodes_to_delete---mm-dd-yyyy-hh.txt)
+- Script to run to delete nodes from the chef server ( #####TODO###)
 
 ####RUN CLOUDWATCH SCRIPT
-#TODO
+######## v
 
-####BRUN DELETE SCRIPT
-#TODO
+####RUN DELETE SCRIPT
+#################TODO####
 
-####
+
