@@ -30,8 +30,6 @@ secret = XXXXXXXXXXXXXXXXXXXXX
 access = XXXXXXXXXXXXXXX
 secret = XXXXXXXXXXXXXXXXXXXXX
 ```
-   - 
-   - Check the file localfiles/credentials for the format
 - [3] S3 Bucket
    - Create an S3 Bucket and get its name
    - Create an IAM user that can access this bucket
