@@ -89,13 +89,14 @@ ruby add_metrics.rb
 
 ####OUTPUT
 
-- Log file: logs.txt (under localfiles/)
-- Cloud Watch values: cw_metrics.txt (under output/)
-- Terminated instances: nodes_to_delete---mm-dd-yyyy-hh.txt (under output/)
+- Log file: 'logs.txt' (under localfiles/)
+- Cloud Watch values: 'cw_metrics.txt' (under output/)
+- Terminated instances: 'nodes_to_delete---mm-dd-yyyy-hh.txt' (under output/)
 - Script to run to delete nodes from the chef server ( #####TODO###)
 - 
 ####RUN DELETE SCRIPT
-- Append this to chefcleanup.rb script
+
+- Append this to 'chefcleanup.rb' script
 
 ```
 ###gets the name of the terminated instances on chef 
@@ -112,8 +113,9 @@ OR
 
 ```
 knife node delete NODENAME
-##NODENAME: from nodes_to_delete---mm-dd-yyyy-hh.txt file 
+##NODENAME: from 'nodes_to_delete---mm-dd-yyyy-hh.txt' file 
 ```
+
 
 
 
