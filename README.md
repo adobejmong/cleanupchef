@@ -24,7 +24,7 @@ Make sure you have the following dependencies:
 #AWS Account Number 1
 access = XXXXXXXXXXXXXXX
 secret = XXXXXXXXXXXXXXXXXXXXX
-#AWS Account Number 1
+#AWS Account Number 2
 access = XXXXXXXXXXXXXXX
 secret = XXXXXXXXXXXXXXXXXXXXX
 #AWS Account Number n
