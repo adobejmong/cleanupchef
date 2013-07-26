@@ -1,8 +1,8 @@
 require 'aws'
 require 'aws-sdk'
 
-$initial_config_file = '../localfiles/initial_config.txt' #local configuration file 
-$cw_metrics_values_file = '../localfiles/cw_metrics.txt' #Values pushed to Cloud Watch
+$initial_config_file = '../localfiles/initial_config.txt' #local configuration file
+$cw_metrics_values_file = '../output/cw_metrics.txt' #Values pushed to Cloud Watch
 
 #Check if file exists
 def file_or_directory_exist(directorypath)
@@ -53,7 +53,7 @@ end
 
 #set AWS Environment
 def set_aws_environment (accesskey,secretkey)
-  AWS.config(
+AWS.config(
       :access_key_id     => accesskey,
       :secret_access_key => secretkey
     )
@@ -65,12 +65,14 @@ def get_file_from_bucket(accesskey,secretkey,bucket,filename)
   s3 = AWS::S3.new
   file_on_s3= s3.buckets[bucket].objects[filename]
   #Read an object to a file to avoid overloading the system
-  File.open("../localfiles/local_#{filename}", 'wb') do |file|
-    file_on_s3.read do |chunk|
+  #File.open("../localfiles/local_#{filename}", 'wb') do |file|
+   File.open("../localfiles/#{filename}", 'wb') do |file|
+      file_on_s3.read do |chunk|
       file.write(chunk)
     end
   end
-  return "../localfiles/local_#{filename}"
+ # return "../localfiles/local_#{filename}"
+return "../localfiles/#{filename}"
 end
 
 #get AWS credentials
@@ -79,4 +81,3 @@ def get_aws_credentials(filepath,accesskey_regex,secretkey_regex)
   secret_key= get_string_from_file(filepath,secretkey_regex)
   return access_key,secret_key
 end
-  
