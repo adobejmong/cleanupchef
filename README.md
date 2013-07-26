@@ -12,9 +12,10 @@ The script detects terminated nodes and offers the possibility to delete them fr
 
 Make sure you have the following dependencies:
 
-- [1] Chef Configuration File
+- [1] Chef Configuration
    - Get your chef-repo-specific configuration details for Knife (e.g., knife.rb)
-   - Get the number of nodes subscribed (nodes allowed by Opscode)
+   - Get the user Private Key file (.pem)
+   - Get the number of subscribed nodes (nodes allowed by Opscode)
 - [2] AWS accounts Credentials 
    - Get your AWS Accounts Credentials (Access Key and Secret Key) of IAM users that are authorized to run 'ec2-describe-instances'
    - Place them in a file (e.g, credentials.txt) as shown below
@@ -37,20 +38,22 @@ secret = XXXXXXXXXXXXXXXXXXXXX
 - [4] Cloud Watch
     - Create an IAM user that can run Cloud Watch commands
     - Choose a namespace and metrics names
+    - Determine your account Cloud Watch region (i.e, us-east-1, us-west-1...)
     
 
 ####COPY FILES TO S3 BUCKET (from Step [3])
 
-- Chef configuration File (from Step [1])
-- The validation client's private key
-- Credentials file (from Step [3])
+- Chef configuration file (from Step [1])
+- The user 's private key (from Step [1])
+- The user private key (from Step [1])
+- AWS accounts' credentials file (from Step [3])
     
 ####EDIT CONFIGURATION FILE
 
 Before you run the script:
-- Create 'initial_config.txt' from the template below file under /localfiles and 
-- Edit the fields by replacing 'from step (x)' with the corresponding values from the section above. 
-- !!!!!Please make sure to keep the space before and after the =.
+- Create 'initial_config.txt' file from the template below under /localfiles
+- Edit the fields by replacing 'from step (x)' with the corresponding values from the section above (BEFORE YOU START). 
+- !!!!!Please make sure to keep the space before and after the '=' sign.
 
 ```
 ################Template###########################
@@ -69,6 +72,7 @@ chef_subscribed_nodes = from step [1]
 cw_access_key = from step [4]
 cw_secret_key = from step [4]
 #Cloudwatch Metrics
+cw_region = from step [4]
 namespace = from step [4]
 metric1 = from step [4]
 metric2 = from step [4]
@@ -82,9 +86,9 @@ ruby cleanupchef.rb
 
 ####OUTPUT
 
-- Log file (logs.txt) under output
-- Cloud Watch values (cw_metrics.txt) under output 
-- Terminated instances (nodes_to_delete---mm-dd-yyyy-hh.txt)
+- Log file: logs.txt (under localfiles/)
+- Cloud Watch values: cw_metrics.txt (under output/)
+- Terminated instances: nodes_to_delete---mm-dd-yyyy-hh.txt (under output/)
 - Script to run to delete nodes from the chef server ( #####TODO###)
 
 ####RUN CLOUDWATCH SCRIPT
