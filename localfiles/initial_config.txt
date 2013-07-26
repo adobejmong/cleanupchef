@@ -13,6 +13,7 @@ chef_subscribed_nodes = XXXX
 cw_access_key = XXXXXXXXXXX
 cw_secret_key = XXXXXXXXXXXXXXXXXXXXXX
 #Cloudwatch Metrics
+cw_region = XXXXXXX(e.g., us-east-1)
 namespace = XXXXXXXXXXX
 metric1 = XXXXXXXXXXX
 metric2 = XXXXXXXXXXX
