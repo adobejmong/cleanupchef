@@ -34,7 +34,7 @@ secret = XXXXXXXXXXXXXXXXXXXXX
 - [3] S3 Bucket
    - Create an S3 Bucket and get its name
    - Create an IAM user that can access this bucket
-    Get the IAM user credentials (Access Key and Secret Key)
+   - Get the IAM user credentials (Access Key and Secret Key)
 - [4] Cloud Watch
     - Create an IAM user that can run Cloud Watch commands
     - Choose a namespace and metrics names
