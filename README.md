@@ -1,5 +1,5 @@
-The script 'chefcleanup.rb' detects terminated nodes and offers the possibility to delete them from the Chef server
-The script 'add_metrics.rb' publishes metric data points into Amazon CloudWatch.
+- The script 'chefcleanup.rb' detects terminated nodes and offers the possibility to delete them from the Chef server
+- The script 'add_metrics.rb' publishes metric data points into Amazon CloudWatch.
 
 ####FOLDER HIERARCHY:
 
