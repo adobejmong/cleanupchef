@@ -1,3 +1,4 @@
+###### You can find an example at https://secrets.corp.adobe.com/SecretView.aspx?secretid=3922#######
 #Main Credentials: S3 bucket Access and Secret Keys
 s3_accesskey = XXXXXXXXXXXXXXXX
 s3_secretkey = XXXXXXXXXXXXXXXXXXXXXXXX
