@@ -84,17 +84,36 @@ metric3 = from step [4]
 ruby cleanupchef.rb
 
 
+####RUN CLOUDWATCH SCRIPT
+ruby add_metrics.rb
+
 ####OUTPUT
 
 - Log file: logs.txt (under localfiles/)
 - Cloud Watch values: cw_metrics.txt (under output/)
 - Terminated instances: nodes_to_delete---mm-dd-yyyy-hh.txt (under output/)
 - Script to run to delete nodes from the chef server ( #####TODO###)
-
-####RUN CLOUDWATCH SCRIPT
-#################TODO####
-
+- 
 ####RUN DELETE SCRIPT
-#################TODO####
+- Append this to chefcleanup.rb script
+
+```
+###gets the name of the terminated instances on chef 
+###and delete them
+terminated_nodes.each do |terminated_node|
+  terminated_node_on_chef = Chef::ApiClient.load(terminated_node.name)
+  terminated_node_on_chef.destroy
+  terminated_node.destroy
+  write_to_log("deleted these nodes:#{terminated_node.name}")
+#end
+```
+OR         
+- run the command 
+
+```
+knife node delete NODENAME
+##NODENAME: from nodes_to_delete---mm-dd-yyyy-hh.txt file 
+```
+
 
 
