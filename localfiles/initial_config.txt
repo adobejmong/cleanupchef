@@ -5,8 +5,9 @@ s3_secretkey = XXXXXXXXXXXXXXXXXXXXXXXX
 s3_bucket_name = XXXXXXXXXXX
 #AWS Accounts Credentials File
 aws_accounts_file = XXXXXXXXXXX.txt
-#Chef Config file (knife file)
+#Chef Config file and client pem file
 chef_config_file = XXXXXXXXXXX.rb
+chef_private_key_file = xxxx.pem
 #Number of nodes subscribed
 chef_subscribed_nodes = XXXX
 #CloudWatch IAM User Credentials
