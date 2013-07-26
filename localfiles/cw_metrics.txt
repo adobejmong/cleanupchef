@@ -1,3 +1,0 @@
-nodes_subscribed=2000
-nodes_registered=1000
-nodes_active= 311
