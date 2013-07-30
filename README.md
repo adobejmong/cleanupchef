@@ -1,4 +1,4 @@
-- The script 'chefcleanup.rb' detects terminated nodes and offers the possibility to delete them from the Chef server
+- The script 'chefcleanup.rb' detects terminated nodes (EC2 instances) and offers the possibility to delete them from the Chef server
 - The script 'add_metrics.rb' publishes metric data points into Amazon CloudWatch.
 
 ####FOLDER HIERARCHY:
@@ -38,6 +38,7 @@ secret = XXXXXXXXXXXXXXXXXXXXX
    - Get the IAM user credentials (Access Key and Secret Key)
 - [4] Cloud Watch
     - Create an IAM user that can run Cloud Watch commands
+    - Get the IAM user credentials (Access Key and Secret Key)
     - Choose a namespace and metrics names
     - Determine your account Cloud Watch region (i.e, us-east-1, us-west-1...)
     
