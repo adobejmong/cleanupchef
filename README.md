@@ -117,7 +117,8 @@ OR
 knife node delete NODENAME
 ##NODENAME: from 'nodes_to_delete---mm-dd-yyyy-hh.txt' file 
 ```
-
-
+##TODO: Fix pem files (private and org keys) + where to put them +fix code to get them in chefcleanup.rb
+reduce the number of get s3 operations (instead of get_from_s3 maybe check if file exist locally)
+Get the recent code from ec2_instance
 
 
