@@ -1,4 +1,4 @@
-#this script detect terminated nodes (nodes with terminated AWS instances) on the Chef server
+#this script detects terminated nodes (nodes with terminated AWS instances) on the Chef server
 #and offers the possibility to delete them
 
 require 'rubygems'
